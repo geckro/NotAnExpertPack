@@ -1,0 +1,3 @@
+recipes.addShaped(<tconstruct:tooltables>, [[<ore:leather>, <tconstruct:pattern>, <ore:leather>],[<tconstruct:pattern>, <minecraft:crafting_table>, <tconstruct:pattern>], [<ore:leather>, <tconstruct:pattern>, <ore:leather>]]);
+recipes.addShaped(<tconstruct:materials:16>, [[<ore:nuggetAlubrass>, <tconstruct:materials:15>, <ore:nuggetAlubrass>],[<tconstruct:materials:15>, <minecraft:emerald>, <tconstruct:materials:15>], [<ore:nuggetAlubrass>, <tconstruct:materials:15>, <ore:nuggetAlubrass>]]);
+recipes.addShaped(<tconstruct:materials:15>, [[<minecraft:string>, <ore:ingotNickel>, <minecraft:string>],[<ore:ingotNickel>, <ore:ingotGold>, <ore:ingotNickel>], [<minecraft:string>, <ore:ingotNickel>, <minecraft:string>]]);

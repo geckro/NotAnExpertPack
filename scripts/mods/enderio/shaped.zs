@@ -1,0 +1,2 @@
+recipes.addShaped(<enderio:item_material>, [[<ore:ingotSteel>, <ore:stickSteel>, <ore:ingotSteel>],[<ore:stickSteel>, <enderio:item_basic_capacitor>, <ore:stickSteel>], [<ore:ingotSteel>, <ore:stickSteel>, <ore:ingotSteel>]]);
+recipes.addShaped(<enderio:block_dark_steel_door> * 3, [[<enderio:block_dark_steel_trapdoor>, <ore:ingotDarkSteel>, null],[<ore:nuggetDarkSteel>, <ore:ingotDarkSteel>, null], [<enderio:block_dark_steel_trapdoor>, <ore:ingotDarkSteel>, null]]);

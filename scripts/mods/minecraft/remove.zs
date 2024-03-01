@@ -1,0 +1,17 @@
+recipes.remove(<minecraft:furnace>);
+recipes.remove(<minecraft:chest>);
+recipes.remove(<minecraft:hopper>);
+recipes.remove(<minecraft:anvil>);
+recipes.remove(<minecraft:golden_apple>);
+recipes.remove(<minecraft:golden_carrot>);
+recipes.remove(<minecraft:jukebox>);
+recipes.remove(<minecraft:dark_oak_boat>);
+recipes.remove(<minecraft:acacia_boat>);
+recipes.remove(<minecraft:jungle_boat>);
+recipes.remove(<minecraft:birch_boat>);
+recipes.remove(<minecraft:spruce_boat>);
+recipes.remove(<minecraft:boat>);
+recipes.remove(<minecraft:wool>);
+recipes.remove(<minecraft:iron_bars>);
+recipes.remove(<minecraft:iron_trapdoor>);
+recipes.remove(<minecraft:iron_door>);

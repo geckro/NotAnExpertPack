@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/coremods/": true,
+        "**/CVS": false,
+        "**/icon.png": true,
+        "**/resourcepacks/": true,
+        "**/screenshots/": true,
+        "**/server-resource-packs/": true,
+        "**/shaderpacks/": true,
+        "**/texturepacks": true,
+        "**/Thumbs.db": false,
+        "**/TombManyGraves/": true,
+        "**/user*cache.json": true,
+        "**/vintagefix/": true,
+        "**/Xaero*/": true
+    },
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+}
