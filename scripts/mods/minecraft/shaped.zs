@@ -16,3 +16,4 @@ recipes.addShaped(<minecraft:wool>, [[<ore:string>, null, <ore:string>],[null, <
 recipes.addShaped(<minecraft:iron_bars> * 12, [[<ore:stickIron>, <ore:stickIron>, <ore:stickIron>], [<ore:stickIron>, <ore:stickIron>, <ore:stickIron>]]);
 recipes.addShaped(<minecraft:iron_door> * 3, [[<minecraft:iron_trapdoor>, <ore:ingotIron>, null],[<ore:stickIron>, <ore:ingotIron>, null], [<minecraft:iron_trapdoor>, <ore:ingotIron>, null]]);
 recipes.addShaped(<minecraft:iron_trapdoor>, [[<ore:nuggetIron>, <ore:stickIron>, <ore:nuggetIron>],[<ore:stickIron>, <ore:stickIron>, <ore:stickIron>], [<ore:nuggetIron>, <ore:stickIron>, <ore:nuggetIron>]]);
+recipes.addShaped(<minecraft:crafting_table>, [[<tconstruct:pattern>, <tconstruct:pattern>],[<ore:plankWood>, <ore:plankWood>]]);

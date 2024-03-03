@@ -1,21 +1,181 @@
 <ore:dustElectrum>.removeItems([<immersiveengineering:metal:16>]);
 <ore:dustSteel>.removeItems([<immersiveengineering:metal:17>, <thermalfoundation:material:96>]);
-<ore:ingotAluminum>.removeItems([<immersiveengineering:metal:1>]);
-<ore:ingotBronze>.removeItems([<thermalfoundation:material:163>]);
-<ore:ingotConstantan>.removeItems([<immersiveengineering:metal:6>]);
-<ore:ingotCopper>.removeItems([<mekanism:ingot:5>, <immersiveengineering:metal>]);
-<ore:ingotElectrum>.removeItems([<immersiveengineering:metal:7>]);
-<ore:ingotLead>.removeItems([<immersiveengineering:metal:2>]);
-<ore:ingotNickel>.removeItems([<immersiveengineering:metal:4>]);
-<ore:ingotSilver>.removeItems([<immersiveengineering:metal:3>]);
-<ore:ingotSteel>.removeItems([<thermalfoundation:material:160>, <immersiveengineering:metal:8>]);
-<ore:ingotTin>.removeItems([<mekanism:ingot:6>]);
+<ore:ingotAluminum>.removeItems([
+    <immersiveengineering:metal:1>,
+    <galacticraftcore:basic_item:5>,
+    <nuclearcraft:ingot:12>,
+    // <hbm:ingot_aluminium>,
+    <alchemistry:ingot:13>
+]);
+<ore:ingotAluminum>.removeItems([
+    <nuclearcraft:ingot:12>
+]);
+<ore:ingotBeryllium>.removeItems([
+    <alchemistry:ingot:4>
+    // <hbm:ingot_beryllium>
+]);
+<ore:ingotBoron>.removeItems([
+    <alchemistry:ingot:5>
+    // <hbm:ingot_boron>
+]);
+<ore:ingotBronze>.removeItems([
+    <thermalfoundation:material:163>,
+    <nuclearcraft:alloy>
+]);
+<ore:ingotConstantan>.removeItems([
+    <immersiveengineering:metal:6>
+]);
+<ore:ingotCopper>.removeItems([
+    <mekanism:ingot:5>,
+    <immersiveengineering:metal>,
+    <nuclearcraft:ingot>,
+    <galacticraftcore:basic_item:3>,
+    <alchemistry:ingot:29>
+    // <hbm:ingot_copper>
+]);
+<ore:ingotElectrum>.removeItems([
+    <immersiveengineering:metal:7>
+]);
+<ore:ingotGraphite>.removeItems([
+    <bigreactors:ingotgraphite>
+    // <hbm:ingot_graphite>
+]);
+<ore:ingotLead>.removeItems([
+    <immersiveengineering:metal:2>,
+    <nuclearcraft:ingot:2>,
+    <extraplanets:ingot_lead>,
+    <galacticraftplanets:basic_item_venus:1>,
+    <alchemistry:ingot:82>
+    // <hbm:ingot_lead>
+]);
+<ore:ingotLithium>.removeItems([
+    <alchemistry:ingot:3>
+    // <hbm:lithium>
+]);
+<ore:ingotMagnesium>.removeItems([
+    <extraplanets:tier6_items:5>,
+    <alchemistry:ingot:12>
+]);
+<ore:ingotManganese>.removeItems([
+    <alchemistry:ingot:25>
+]);
+<ore:ingotNickel>.removeItems([
+    <immersiveengineering:metal:4>,
+    <qmd:ingot:5>,
+    <extraplanets:tier5_items:7>,
+    <alchemistry:ingot:28>
+]);
+<ore:ingotSilver>.removeItems([
+    <immersiveengineering:metal:3>,
+    <nuclearcraft:ingot:13>,
+    <bewitchment:silver_ingot>,
+    <alchemistry:ingot:47>
+]);
+<ore:ingotSteel>.removeItems([
+    <thermalfoundation:material:160>,
+    <immersiveengineering:metal:8>,
+    <nuclearcraft:alloy:5>,
+    <bigreactors:ingotsteel>
+    // <hbm:ingot_steel>
+]);
+<ore:ingotTin>.removeItems([
+    <mekanism:ingot:6>,
+    <nuclearcraft:ingot:1>,
+    <galacticraftcore:basic_item:4>,
+    <alchemistry:ingot:50>
+]);
+<ore:ingotThorium>.removeItems([
+    <alchemistry:ingot:90>
+    // <hbm:ingot_th232>
+]);
+<ore:ingotUranium>.removeItems([
+    <bigreactors:ingotyellorium>,
+    <extraplanets:ingot_uranium>,
+    // <hbm:ingot_uranium>,
+    <nuclearcraft:ingot:4>,
+    <alchemistry:ingot:92>
+]);
+<ore:ingotZirconium>.removeItems([
+    <alchemistry:ingot:40>
+    // <hbm:ingot_zirconium>
+]);
 <ore:nuggetAluminum>.removeItems([<immersiveengineering:metal:21>]);
 <ore:nuggetCopper>.removeItems([<mekanism:nugget:5>, <immersiveengineering:metal:20>]);
 <ore:nuggetElectrum>.removeItems([<immersiveengineering:metal:27>]);
 <ore:nuggetLead>.removeItems([<immersiveengineering:metal:22>]);
 <ore:nuggetNickel>.removeItems([<immersiveengineering:metal:24>]);
-<ore:nuggetSilver>.removeItems([<immersiveengineering:metal:23>]);
+<ore:nuggetSilver>.removeItems([
+    <immersiveengineering:metal:23>
+]);
 <ore:nuggetSteel>.removeItems([<thermalfoundation:material:224>, <immersiveengineering:metal:28>]);
 <ore:nuggetTin>.removeItems([<mekanism:nugget:6>]);
 <ore:torch>.removeItems([<integrateddynamics:menril_torch>, <integrateddynamics:menril_torch_stone>]);
+<ore:logWood>.removeItems([
+    <forestry:logs.fireproof.0:*>,
+    <forestry:logs.fireproof.1:*>,
+    <forestry:logs.fireproof.2:*>,
+    <forestry:logs.fireproof.3:*>,
+    <forestry:logs.fireproof.4:*>,
+    <forestry:logs.fireproof.5:*>,
+    <forestry:logs.fireproof.6:*>,
+    <forestry:logs.fireproof.7:*>,
+    <forestry:logs.vanilla.fireproof.0:*>,
+    <forestry:logs.vanilla.fireproof.1:*>,
+    <extratrees:logs.fireproof.0:*>,
+    <extratrees:logs.fireproof.1:*>,
+    <extratrees:logs.fireproof.2:*>,
+    <extratrees:logs.fireproof.3:*>,
+    <extratrees:logs.fireproof.4:*>,
+    <extratrees:logs.fireproof.5:*>,
+    <extratrees:logs.fireproof.6:*>,
+    <extratrees:logs.fireproof.7:*>,
+    <extratrees:logs.fireproof.8:*>,
+    <extratrees:logs.fireproof.9:*>,
+    <rustic:log>,
+    <rustic:log:1>,
+    <bewitchment:cypress_wood>,
+    <bewitchment:elder_wood>,
+    <bewitchment:juniper_wood>,
+    <bewitchment:dragons_blood_wood>,
+    // <hbm:pink_log>,
+    <totemic:cedar_log>,
+    <naturesaura:ancient_log>,
+    <naturesaura:ancient_bark>,
+    <roots:wildwood_log>
+]);
+<ore:plankWood>.removeItems([
+    <extratrees:planks.fireproof.0:*>,
+    <extratrees:planks.fireproof.1:*>,
+    <extratrees:planks.fireproof.2:*>,
+    <forestry:planks.fireproof.0:*>,
+    <forestry:planks.fireproof.1:*>,
+    <forestry:planks.vanilla.fireproof.0:*>,
+    <bewitchment:cypress_planks>,
+    <bewitchment:elder_planks>,
+    <bewitchment:juniper_planks>,
+    <bewitchment:dragons_blood_planks>,
+    <rustic:planks>,
+    <rustic:planks:1>,
+    <naturesaura:ancient_planks>,
+    // <hbm:pink_planks>,
+    <totemic:cedar_plank>,
+    <roots:wildwood_planks>
+]);
+<ore:slabWood>.removeItems([
+    <extratrees:slabs.fireproof.0:*>,
+    <extratrees:slabs.fireproof.1:*>,
+    <extratrees:slabs.fireproof.2:*>,
+    <forestry:slabs.fireproof.0:*>,
+    <forestry:slabs.fireproof.1:*>,
+    <forestry:slabs.vanilla.fireproof.0:*>,
+]);
+<ore:stickWood>.removeItems([
+    <biomesoplenty:bamboo>,
+    <extraplanets:tier11_items:7>,
+    <extraplanets:tier11_items:8>,
+    <extraplanets:tier11_items:9>,
+    <extraplanets:tier11_items:10>,
+    <extraplanets:tier11_items:11>,
+    <extraplanets:tier11_items:12>,
+    <naturesaura:ancient_stick>
+]);

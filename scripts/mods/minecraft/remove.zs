@@ -15,3 +15,5 @@ recipes.remove(<minecraft:wool>);
 recipes.remove(<minecraft:iron_bars>);
 recipes.remove(<minecraft:iron_trapdoor>);
 recipes.remove(<minecraft:iron_door>);
+recipes.remove(<minecraft:crafting_table>);
+recipes.removeByRecipeName("minecraft:glass_pane");

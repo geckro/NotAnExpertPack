@@ -1,0 +1,65 @@
+{
+	"dependencies": "bewitchment",
+	"populate": {
+		"amethyst": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "bewitchment:amethyst_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 6,
+			"min-height": 8,
+			"max-height": 38,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [-1,1]
+			}
+		},
+		"garnet": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "bewitchment:garnet_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 12,
+			"min-height": 14,
+			"max-height": 55,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [-1,1]
+			}
+		},
+		"opal": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "bewitchment:opal_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 8,
+			"min-height": 26,
+			"max-height": 58,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [-1,1]
+			}
+		}
+	}
+}

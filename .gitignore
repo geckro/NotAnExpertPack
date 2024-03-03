@@ -45,3 +45,13 @@ scripts/nc_script_addons/
 config/xaeroworldmap-common.txt
 config/xaerominimap-common.txt
 config/rftools/dimlets.json
+config/Aether/analytics.json.gz
+config/cofh/thermalcultivation/client.cfg
+config/cofh/thermalinnovation/client.cfg
+config/moresoundconfig.cfg
+config/armoryexpansion/conarm/conarm-materials.json
+config/hbm/
+config/brandon3055/contributors.json
+config/machinemuse/cosmeticpresets/
+config/solarflux/textures/example_base.png
+config/solarflux/textures/example_top.png
