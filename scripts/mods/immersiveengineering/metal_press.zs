@@ -1,10 +1,6 @@
 import mods.immersiveengineering.MetalPress;
 
 
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:rod:2>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:rod:3>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:rod:5>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:rod:6>);
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:39>);
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:40>);
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:33>);
@@ -23,9 +19,6 @@ mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:35
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:293>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:294>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:295>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:plate:9>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:plate:8>);
-mods.immersiveengineering.MetalPress.removeRecipe(<lightningcraft:plate:7>);
 mods.immersiveengineering.MetalPress.removeRecipe(<tconevo:metal:13>);
 mods.immersiveengineering.MetalPress.removeRecipe(<tconevo:metal:14>);
 mods.immersiveengineering.MetalPress.removeRecipe(<tconevo:metal:23>);
