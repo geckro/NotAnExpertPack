@@ -1,42 +1,39 @@
 # Not an Expert Pack
 
-A pack for 1.12.2. In development.
+A pack for 1.12.2. In very early development. It needs a better name, known also as "geckpack".
 
 
-## Mods that will not be included
-- Ice and Fire
-- Extra Utils 2 / TMEL
-- Ruins
-- GregTech
-- JourneyMap
-- BetterNether / NetherEx
-- Wireless Crafting Terminal and others
-- BuildCraft
-- Woot
+## Mod notes
+
+[mod list](MODLIST.md)
+
+### Mods that will not be included
+- Any mod that adds a lot of block/item IDs
 - Apotheosis
-- RailCraft
+- BetterNether / NetherEx
+- BuildCraft
 - Charm
-- OpenComputers (not CC)
-- Any mod that adds a bunch of variants to existing blocks
+- Extra Utils 2 / TMEL
+- GregTech
 - IC2
+- Ice and Fire
+- JourneyMap (Xaero is better)
+- OpenComputers (not CC)
+- RailCraft
+- Ruins (Custom structure worldgen is planned)
 - Tech Reborn
+- Woot (Deep Mob Evolution is already here)
 
-## Mods that may be included, but not a priority
-- Refined Storage (potentially just configs)
-- Some space exploration mod
-- Nature's Aura
-- LightningCraft
+### Mods that may be included, but not a priority
+- Refined Storage (Just configuration files)
 - Vampirism
-- Embers/Soot
 
-## Mods that may be removed
-- Integrated dynamic addons
+### Mods that may be removed
+- Aether II
 - Betweenlands
-- DivineRPG or AoA (Feels lame, though)
-- RFTools Dimensions
+- DivineRPG or AoA
 - Extreme Reactors
-- Aether
-- PackagedCrafting mods(?)
-- Neeve AE2 additions andor AE Additions
-- Mystical adaptations
-- Ambient Environment
+- Nature's Aura
+- RFTools Control
+- RFTools Dimensions
+- Trinity
