@@ -1,201 +1,300 @@
-- [AbyssalCraft Integration](https://www.curseforge.com/projects/234851)
-- [AbyssalCraft](https://www.curseforge.com/projects/53686)
+- [/dank/null](https://www.curseforge.com/projects/896355) by TheRealp455w0rd
+<!-- - [AbyssalCraft Integration](https://www.curseforge.com/projects/234851) by shinoow -->
+<!-- - [AbyssalCraft](https://www.curseforge.com/projects/53686) by shinoow -->
 - [Actually Additions](https://www.curseforge.com/projects/228404) by Ellpeck
 - [Actually Baubles](https://www.curseforge.com/projects/273430) by Jacky1356400
-- [Additional Structures](https://www.curseforge.com/projects/297680)
+- [Advent Of Ascension](https://www.curseforge.com/projects/311054) by Tslat - Code, Ursun - Assets
 - [AE Additions](https://www.curseforge.com/projects/493962) by MasterYodA
+- [AE2 Network Visualiser](https://www.curseforge.com/projects/321720)
+- [AE2 Stuff Unofficial: Extended](https://www.curseforge.com/projects/913357) by serenibyss, bdew, B eecube31
 - [AE2 Unofficial Extended Life](https://www.curseforge.com/projects/570458) by NotMyWing, Serenibyss, PrototypeTrousers, AlgorithmX2, contributors <3
-- [Alchemistry](https://www.curseforge.com/projects/293425)
+- [Aether II](https://www.curseforge.com/projects/917199) by Oscar Payn, Brandon James Pearce, Hugo Payn, Jaryt Bustard, Christian Peterson, Angeline, bconlon, The_Computerizer
+<!-- - [AI Reducer](https://www.curseforge.com/projects/367831) by Charles445 -->
+- [Alchemistry](https://www.curseforge.com/projects/293425) by al132
 - [AlchemyLib](https://www.curseforge.com/projects/293426)
-- [Ambient Environment](https://www.curseforge.com/projects/320163)
+<!-- - [Ambient Environment](https://www.curseforge.com/projects/320163) by Jaredlll08 -->
+- [Animus](https://www.curseforge.com/projects/229664) by TeamDman, Saereth
 - [AppleCore](https://www.curseforge.com/projects/224472)
 - [AppleSkin](https://www.curseforge.com/projects/248787) by squeek
-- [Armory Expansion](https://www.curseforge.com/projects/293602)
-- [Astral Sorcery](https://www.curseforge.com/projects/241721)
-- [AstralLevelTweak](https://www.curseforge.com/projects/463445)
+<!-- - [Armory Expansion](https://www.curseforge.com/projects/293602) by YaibaToKen -->
+- [Astral Level Nerf](https://www.curseforge.com/projects/463445) by Mixu_78
+- [Astral Sorcery](https://www.curseforge.com/projects/241721) by HellFirePvP, wiiv
+- [Atlas Lib](https://www.curseforge.com/projects/463826) by Smileycorp
 - [AutoRegLib](https://www.curseforge.com/projects/250363) by Vazkii
-- [Avaritia 1.1x](https://www.curseforge.com/projects/261348)
-- [Avaritia Tweaks](https://www.curseforge.com/projects/286652)
+- [Avaritia Tweaks](https://www.curseforge.com/projects/286652) by Jackyy
+- [Avaritia] by SpitefulFox, TTFTCUTS
 - [B.A.S.E](https://www.curseforge.com/projects/246996) by SkySom, Lanse505, Jared, EwyBoy
 - [Bad Mobs](https://www.curseforge.com/projects/233258) by Darkhax
 - [Bansōkō [絆創膏] - Mod Patcher](https://www.curseforge.com/projects/434344)
 - [Baubles](https://www.curseforge.com/projects/227083) by Azanor
 - [Baubley Heart Canisters](https://www.curseforge.com/projects/282947) by EmoKiba, UpCraftLP
-- [BdLib](https://www.curseforge.com/projects/70496)
-- [BeeBetterAtBees](https://www.curseforge.com/projects/244516)
-- [Better Biome Blend](https://www.curseforge.com/projects/446253)
-- [Better Builder's Wands](https://www.curseforge.com/projects/238403)
+- [BD Lib](https://www.curseforge.com/projects/70496) by bdew
+- [Bee Better at Bees](https://www.curseforge.com/projects/244516) by HellFirePvP
+- [Better Advancements](https://www.curseforge.com/projects/272515) by way2muchnoise
+- [Better Biome Blend](https://www.curseforge.com/projects/446253) by FionaTheMortal
+- [Better Builder's Wands](https://www.curseforge.com/projects/238403) by Portablejim
 - [BetterFps](https://www.curseforge.com/projects/229876)
-- [Bewitchment (Legacy)](https://www.curseforge.com/projects/285439)
-- [Binnie's Mods Patched](https://www.curseforge.com/projects/899182)
-- [Biomes O' Plenty](https://www.curseforge.com/projects/220318)
+- [Bewitchment](https://www.curseforge.com/projects/285439) by Zabi94, Sunconure11, Ingoleth, MoriyaShiine, Samaritans, and a whole lot of awesome people from our discord server!, And our awesome patrons!
+- [Binnie Core](https://www.curseforge.com/projects/899182) by Binnie
+- [Biomes O' Plenty](https://www.curseforge.com/projects/220318) by Adubbz, Amnet, Cheeserolls, Forstride, ted80
 - [Blockcraftery](https://www.curseforge.com/projects/278882) by Elucent, EpicSquid
-- [Blood Magic ](https://www.curseforge.com/projects/224791)
+- [Blood Magic: Alchemical Wizardry](https://www.curseforge.com/projects/224791) by WayofTime, TehNut
+<!-- - [Blood Smeltery: A TCon Addon for Blood Magic](https://www.curseforge.com/projects/476863) by Smileycorp -->
 - [Bookshelf](https://www.curseforge.com/projects/228525) by darkhax, lclc98
 - [Botania Tweaks](https://www.curseforge.com/projects/295114) by quaternary
 - [Botania](https://www.curseforge.com/projects/225643) by Vazkii, williewillus, wiiv, dylan4ever
 - [Brandon's Core](https://www.curseforge.com/projects/231382) by brandon3055
-- [Building Gadgets](https://www.curseforge.com/projects/298187)
-- [CB Multipart](https://www.curseforge.com/projects/258426)
-- [CC: Tweaked](https://www.curseforge.com/projects/282001)
+- [Building Gadgets](https://www.curseforge.com/projects/298187) by Direwolf20
+- [Caliper](https://www.curseforge.com/projects/266824) by Darkhax
+- [CC: Tweaked](https://www.curseforge.com/projects/282001) by Daniel Ratcliffe, Aaron Mills, SquidDev
 - [Chameleon](https://www.curseforge.com/projects/230497) by jaquadro
 - [Chisel](https://www.curseforge.com/projects/235279) by tterrag, Drullkus, minecreatr
+- [Chunk Animator](https://www.curseforge.com/projects/236484) by lumien
 - [CodeChicken Lib](https://www.curseforge.com/projects/242818) by ChickenBones, covers1624
 - [CoFH Core](https://www.curseforge.com/projects/69162) by Team CoFH
 - [CoFH World](https://www.curseforge.com/projects/271384) by Team CoFH
 - [CommonCapabilities](https://www.curseforge.com/projects/247007) by rubensworks (aka kroeserr)
+<!-- - [Compact Machines 3](https://www.curseforge.com/projects/224218) by Davenonymous -->
+- [Compacter](https://www.curseforge.com/projects/231549) by bdew
 - [ConfigAnytime](https://www.curseforge.com/projects/870276) by CleanroomMC
-- [Construct's Armory](https://www.curseforge.com/projects/287683)
+- [Construct's Armory](https://www.curseforge.com/projects/287683) by C4
 - [ContentTweaker](https://www.curseforge.com/projects/237065) by SkySom
 - [Controlling](https://www.curseforge.com/projects/250398) by Jaredlll08
-- [Cooking for Blockheads](https://www.curseforge.com/projects/231484)
+- [Cooking for Blockheads](https://www.curseforge.com/projects/231484) by BlayTheNinth
 - [CoTRO](https://www.curseforge.com/projects/488116) by tomdodd4598
+- [CraftTweaker Utils](https://www.curseforge.com/projects/303213) by ExampleDude
 - [CraftTweaker2](https://www.curseforge.com/projects/239197) by StanHebben, Jaredlll08
 - [CTM](https://www.curseforge.com/projects/267602) by tterrag, Drullkus, minecreatr
 - [Cucumber Library](https://www.curseforge.com/projects/272335) by BlakeBr0
-- [Cyclic](https://www.curseforge.com/projects/239286)
+- [Cyclic](https://www.curseforge.com/projects/239286) by Lothrazar
 - [Cyclops Core](https://www.curseforge.com/projects/232758) by rubensworks (aka kroeserr), immortaleeb (aka _EeB_)
-- [Dark Utilities](https://www.curseforge.com/projects/242195)
-- [Deep Blood Evolution](https://www.curseforge.com/projects/836009)
-- [Deep Mob Evolution](https://www.curseforge.com/projects/737252)
+- [dan's Crafting Tweaks](https://www.curseforge.com/projects/633720) by CleanroomMC, dan, BlayTheNinth
+- [Dark Utilities](https://www.curseforge.com/projects/242195) by Darkhax
+- [Deep Blood Evolution](https://www.curseforge.com/projects/836009) by GlodBlock
+- [DeepMobEvolution](https://www.curseforge.com/projects/737252) by Pansmith, serenibyss
 - [Default Options](https://www.curseforge.com/projects/232131) by BlayTheNinth
+- [Dimension Stages](https://www.curseforge.com/projects/269398) by Darkhax
+- [DivineRPG](https://www.curseforge.com/projects/363543) by See website
 - [Draconic Additions](https://www.curseforge.com/projects/314515) by FoxMcloud5655
 - [Draconic Evolution](https://www.curseforge.com/projects/223565) by brandon3055
-- [Electroblob's Wizardry: Twilight Forest Spell Pack](https://www.curseforge.com/projects/363993)
-- [Electroblob's Wizardry](https://www.curseforge.com/projects/265642)
+- [Dynamic View Mod](https://www.curseforge.com/projects/366140) by Someaddons
+- [Ears](https://www.curseforge.com/projects/412013) by unascribed
+- [Electroblob's Wizardry: Twilight Forest Spell Pack](https://www.curseforge.com/projects/363993) by Electroblob
+- [Electroblob's Wizardry](https://www.curseforge.com/projects/265642) by Electroblob
+- [Embers Rekindled](https://www.curseforge.com/projects/300777) by BordListian, Elucent, AlexisMachina, ShadowGamerXY, werty1124
+- [Enchantment Descriptions](https://www.curseforge.com/projects/250419) by Darkhax
 - [Ender IO endergy](https://www.curseforge.com/projects/304346) by EpicSquid, CrazyPants, tterrag, HenryLoenwind
 - [Ender IO](https://www.curseforge.com/projects/64578) by CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid
 - [EnderCore](https://www.curseforge.com/projects/231868) by tterrag, CrazyPants, HenryLoenwind
 - [EnderStorage](https://www.curseforge.com/projects/634242) by ChickenBones, covers1624
-- [Environmental Materials](https://www.curseforge.com/projects/278825) by ValkyrieofNight
+<!-- - [Environmental Materials](https://www.curseforge.com/projects/278825) by ValkyrieofNight -->
 - [Environmental Tech](https://www.curseforge.com/projects/245453) by ValkyrieofNight
-- [ET Lunar](https://www.curseforge.com/projects/253565) by ValkyrieofNight
-- [Extended Crafting: Nomifactory Edition](https://www.curseforge.com/projects/398267)
-- [Extra Spells (Electroblob's Wizardry)](https://www.curseforge.com/projects/310745)
-- [Forestry](https://www.curseforge.com/projects/59751)
-- [Framed Compacting Drawers](https://www.curseforge.com/projects/376351)
+- [Erebus](https://www.curseforge.com/projects/220698) by vadis365, ganymedes01, DylanKaizer
+<!-- - [ET Lunar](https://www.curseforge.com/projects/253565) by ValkyrieofNight -->
+- [ExtendedCrafting: Nomifactory Edition](https://www.curseforge.com/projects/398267) by BlakeBr0, ALongStringOfNumbers, Eutropium, Exa4096, notmywing, dan
+- [Extra Planets](https://www.curseforge.com/projects/241291) by MJRLegends
+- [Extreme Reactors](https://www.curseforge.com/projects/250277) by ErogenousBeef, ZeroNoRyouki, ABookFreak
+- [Forestry](https://www.curseforge.com/projects/59751) by SirSengir, mezz
+- [Forge Multipart CBE](https://www.curseforge.com/projects/258426) by ChickenBones
+<!-- - [Forgiving Void](https://www.curseforge.com/projects/271009) by BlayTheNinth -->
+- [FPS Reducer](https://www.curseforge.com/projects/280294) by bre2el
+- [Framed Compacting Drawers](https://www.curseforge.com/projects/376351) by Eutros
 - [FTB Backups](https://www.curseforge.com/projects/314904) by LatvianModder
 - [FTB Library](https://www.curseforge.com/projects/237167) by LatvianModder
 - [FTB Quests](https://www.curseforge.com/projects/289412) by LatvianModder
-- [Gas Conduits](https://www.curseforge.com/projects/309756)
-- [Gendustry](https://www.curseforge.com/projects/70492)
-- [Guide-API](https://www.curseforge.com/projects/228832)
-- [GunpowderLib](https://www.curseforge.com/projects/356646)
+- [Galacticraft Tweaker](https://www.curseforge.com/projects/286116) by ExampleDude
+- [Galacticraft](https://www.curseforge.com/projects/564236) by micdoodle8, radfast, EzerArch, fishtaco, SpaceViking, SteveKunG, ROMVoid95
+- [Game Stages](https://www.curseforge.com/projects/268655) by Darkhax
+- [GasConduits](https://www.curseforge.com/projects/309756) by pupnewfster
+- [GenDustry](https://www.curseforge.com/projects/70492) by bdew
+- [Guide-API](https://www.curseforge.com/projects/228832) by Tombenpotter, TehNut
+- [GunpowderLib](https://www.curseforge.com/projects/356646) by Jackyy
 - [Had Enough Items](https://www.curseforge.com/projects/557549) by mezz, Rongmario
+- [Immersive Cables](https://www.curseforge.com/projects/283992) by SanAndreasP
 - [Immersive Engineering](https://www.curseforge.com/projects/231951) by BluSunrize, Damien A.W. Hazard
-- [Immersive Magneticraft](https://www.curseforge.com/projects/630790)
+- [Immersive Intelligence](https://www.curseforge.com/projects/344344) by Pabilo8, Carver, Schaeferd-CZ, Bastian, VDeltaGabriel
 - [Immersive Petroleum](https://www.curseforge.com/projects/268250) by Flaxbeard
-- [Immersive Technology](https://www.curseforge.com/projects/359407)
-- [Industrial Foregoing](https://www.curseforge.com/projects/266515)
-- [Initial Inventory](https://www.curseforge.com/projects/253230)
+- [Immersive Technology](https://www.curseforge.com/projects/359407) by TGstyle, Kurtchekov
+- [Industrial Foregoing](https://www.curseforge.com/projects/266515) by Buuz135
+- [Industrial Meat](https://www.curseforge.com/projects/281525) by abused_master
+- [InitialInventory](https://www.curseforge.com/projects/253230)
 - [Integrated Crafting](https://www.curseforge.com/projects/287357) by rubensworks (aka kroeserr)
 - [Integrated Dynamics](https://www.curseforge.com/projects/236307) by rubensworks (aka kroeserr)
 - [Integrated NBT](https://www.curseforge.com/projects/380998) by Rin Tepis
 - [Integrated Terminals](https://www.curseforge.com/projects/295910) by rubensworks (aka kroeserr)
 - [Integrated Tunnels](https://www.curseforge.com/projects/251389) by rubensworks (aka kroeserr)
-- [Integration Foregoing](https://www.curseforge.com/projects/277938)
+- [Integration Foregoing](https://www.curseforge.com/projects/277938) by Jackyy, Buuz135
 - [Item Filters](https://www.curseforge.com/projects/309674) by LatvianModder
-- [IvToolkit](https://www.curseforge.com/projects/224535)
-- [Jade 🔍](https://www.curseforge.com/projects/324717)
+- [Item Stages](https://www.curseforge.com/projects/280316) by Darkhax
+- [IvToolkit](https://www.curseforge.com/projects/224535) by Ivorius
+<!-- - [Jade 🔍](https://www.curseforge.com/projects/324717) -->
 - [JEI Integration](https://www.curseforge.com/projects/265917) by SnowShock35
+- [JEI Utilities](https://www.curseforge.com/projects/616190) by vfyjxf_
+- [Just Enough Drags](https://www.curseforge.com/projects/454215) by WarmthDawn
 - [Just Enough HarvestCraft (JEHC)](https://www.curseforge.com/projects/267939)
+- [Just Enough Magiculture](https://www.curseforge.com/projects/940521) by Invadermonky
+- [Just Enough Reactors](https://www.curseforge.com/projects/292952) by The_BrainStone
 - [Just Enough Resources](https://www.curseforge.com/projects/240630) by way2muchnoise
-- [LibNine](https://www.curseforge.com/projects/322344)
-- [LLibrary](https://www.curseforge.com/projects/243298)
+- [Just Enough Throwing In Fluids](https://www.curseforge.com/projects/303122) by Lykrast
+- [Knowledge Share](https://www.curseforge.com/projects/319037) by Rongmario
+- [Lazy AE2](https://www.curseforge.com/projects/322347) by phantamanta44
+- [libnine](https://www.curseforge.com/projects/322344) by phantamanta44
+<!-- - [LightningCraft](https://www.curseforge.com/projects/237422) by SBlectric -->
+- [LLibrary](https://www.curseforge.com/projects/243298) by iLexiconn, gegy1000
 - [LoliASM](https://www.curseforge.com/projects/460609) by Rongmario
+- [Lootr](https://www.curseforge.com/projects/361276) by Noobanidus, embeddedt
 - [LootTweaker](https://www.curseforge.com/projects/255257) by Leviathan143
-- [Magic Bees](https://www.curseforge.com/projects/65764)
+- [MachineMuse's Modular Powersuits](https://www.curseforge.com/projects/235442) by MachineMuse
+- [Magic Bees](https://www.curseforge.com/projects/65764) by Elec332, MysteriousAges
+- [Magneticraft](https://www.curseforge.com/projects/630790) by Cout970, MechWarrior99, Minecreatr, MattDahEpic, Cypher121
 - [Malek's Infinity Gauntlet](https://www.curseforge.com/projects/448433) by MalekiRe
 - [Mantle](https://www.curseforge.com/projects/74924) by boni, progWML6, Alexbegt
+- [MatterOverdrive: Community Edition](https://www.curseforge.com/projects/557428) by Horizon Studio, Coded, Buuz135, Simeon Radivoev, Shadowfacts, Dev_Osmium, VanMuur, Gandalf360one, InfiniteBlock, Layarion, TheNumenorean
 - [McJtyLib](https://www.curseforge.com/projects/233105) by McJty
 - [Mekanism Community Edition: Generators](https://www.curseforge.com/projects/813408) by aidancbrady, thommy101, thiakil, pupnewfster, dizzyd
 - [Mekanism Community Edition](https://www.curseforge.com/projects/399904) by aidancbrady, thommy101, thiakil, pupnewfster, dizzyd
-- [Minor Integrations and Additions (MIA)](https://www.curseforge.com/projects/358821)
+- [Meldexun's Extra Spells](https://www.curseforge.com/projects/310745) by Meldexun
+- [Minor Integrations and Additions](https://www.curseforge.com/projects/358821) by Main developer - Sokyran, Icon and support artist - Quilveor, Original EVTP artist - MDP
+- [Mixin Compatibility](https://www.curseforge.com/projects/405327) by NotStirred
 - [MixinBooter](https://www.curseforge.com/projects/419286) by Rongmario
 - [MixinBootstrap](https://www.curseforge.com/projects/357178)
-- [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/projects/225738)
-- [Mo' Spells (Electroblob's Wizardry)](https://www.curseforge.com/projects/522529)
+- [MJRLegendsLib](https://www.curseforge.com/projects/284331) by MJRLegends
+- [MmmMmmMmmMmm](https://www.curseforge.com/projects/225738) by boni
+- [Mob Stages](https://www.curseforge.com/projects/278359) by Darkhax
+- [mob_grinding_utils](https://www.curseforge.com/projects/254241) by vadis365
 - [Mod Tweaker](https://www.curseforge.com/projects/220954) by Jaredlll08
-- [ModelLoader](https://www.curseforge.com/projects/277663)
+- [ModelLoader](https://www.curseforge.com/projects/277663) by cout970
+- [Modular Machinery: Community Edition](https://www.curseforge.com/projects/817377) by HellFirePvP, wiiv, KasumiNova, youyihj, ikexing
+<!-- - [More Furnaces: Nomifactory Edition](https://www.curseforge.com/projects/391401) by CubeX2, ALongStringOfNumbers, Eutropium, Exa4096, notmywing, dan -->
+- [More Sound Config](https://www.curseforge.com/projects/306555) by ichttt
 - [MoreOverlays](https://www.curseforge.com/projects/243478) by feldim2425
-- [Mouse Tweaks](https://www.curseforge.com/projects/60089) by Ivan Molodetskikh (YaLTeR)
-- [Mowzie's Mobs](https://www.curseforge.com/projects/250498)
+- [mospells](https://www.curseforge.com/projects/522529) by WinDanesz
+- [Mouse Tweaks Unofficial](https://www.curseforge.com/projects/461660) by CleanroomMC, serenibyss, YaLTeR
+- [Mowzie's Mobs](https://www.curseforge.com/projects/250498) by BobMowzie, pau101
 - [MTLib](https://www.curseforge.com/projects/253211) by Jaredlll08
-- [Mystical Adaptations](https://www.curseforge.com/projects/325892) by Focamacho
+<!-- - [Multiblocked](https://www.curseforge.com/projects/604054) -->
+<!-- - [Mystical Adaptations](https://www.curseforge.com/projects/325892) by Focamacho -->
 - [Mystical Agradditions](https://www.curseforge.com/projects/256247) by BlakeBr0
 - [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/projects/299045) by Ilovepie220
 - [Mystical Agriculture](https://www.curseforge.com/projects/246640) by BlakeBr0
 - [Mystical Lib](https://www.curseforge.com/projects/277064) by EpicSquid, Elucent
-- [Mystical World](https://www.curseforge.com/projects/282940)
-- [Neeve's AE2: Extended Life Additions](https://www.curseforge.com/projects/884359) by NotMyWing
-- [NuclearCraft: Overhauled](https://www.curseforge.com/projects/336895)
-- [OpenBlocks](https://www.curseforge.com/projects/228816)
-- [OpenModsLib](https://www.curseforge.com/projects/228815)
-- [Ore Excavation](https://www.curseforge.com/projects/250898)
-- [Overloaded](https://www.curseforge.com/projects/264601)
-- [PackagedAstral](https://www.curseforge.com/projects/811828)
-- [PackagedAuto](https://www.curseforge.com/projects/308380)
-- [PackagedDraconic](https://www.curseforge.com/projects/833931)
-- [PackagedExCrafting](https://www.curseforge.com/projects/322861)
-- [PackagedThaumic](https://www.curseforge.com/projects/908613)
+- [Mystical World](https://www.curseforge.com/projects/282940) by Noobanidus, EpicSquid, Martacus, Davoleo, Kalaxi, Vulpie
+- [Nature's Aura](https://www.curseforge.com/projects/306626) by Ellpeck
+- [Nature's Compass](https://www.curseforge.com/projects/252848) by ChaosTheDude
+<!-- - [Neeve's AE2: Extended Life Additions](https://www.curseforge.com/projects/884359) by NotMyWing -->
+- [Nimble](https://www.curseforge.com/projects/311927) by Snownee
+- [NotEnoughEnergistics](https://www.curseforge.com/projects/515565) by vfyjxf
+- [NuclearCraft](https://www.curseforge.com/projects/336895) by tomdodd4598
+- [Numina](https://www.curseforge.com/projects/235440)
+- [Old Java Warning](https://www.curseforge.com/projects/293496) by Darkhax
+- [Omniwand](https://www.curseforge.com/projects/923677) by Invadermonky
+- [OpenBlocks](https://www.curseforge.com/projects/228816) by Mikee, NeverCast, boq, Lyqyd
+- [OpenModsLib](https://www.curseforge.com/projects/228815) by Mikee, NeverCast, boq, Lyqyd
+- [Ore Stages](https://www.curseforge.com/projects/290201) by Darkhax, Jaredlll08
+- [OreExcavation](https://www.curseforge.com/projects/250898) by Funwayguy, Darkosto
+- [Overloaded](https://www.curseforge.com/projects/264601) by CJ Miller (cjm721)
+- [p455w0rd's Library](https://www.curseforge.com/projects/255232) by TheRealp455w0rd
+- [PackagedAstral](https://www.curseforge.com/projects/811828) by TheLMiffy1111
+- [PackagedAuto](https://www.curseforge.com/projects/308380) by TheLMiffy1111
+- [PackagedDraconic](https://www.curseforge.com/projects/833931) by TheLMiffy1111
+- [PackagedExCrafting](https://www.curseforge.com/projects/322861) by TheLMiffy1111
+- [PackagedThaumic](https://www.curseforge.com/projects/908613) by TheLMiffy1111
 - [Pam's HarvestCraft](https://www.curseforge.com/projects/221857) by Pamela Collins
-- [Particle Culling](https://www.curseforge.com/projects/408853)
+- [Particle Culling](https://www.curseforge.com/projects/408853) by bl4ckscor3
 - [Patchouli](https://www.curseforge.com/projects/306770) by Vazkii
-- [Plethora Peripherals](https://www.curseforge.com/projects/248425)
-- [PneumaticCraft: Repressurized](https://www.curseforge.com/projects/281849)
+<!-- - [Overloaded](https://www.curseforge.com/projects/554387) -->
+- [PlaneFix](https://www.curseforge.com/projects/320254) by Shadows_of_Fire
+- [Plethora Core](https://www.curseforge.com/projects/248425) by SquidDev
+- [PlusTiC](https://www.curseforge.com/projects/376903) by Landmaster (phuong0429)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/projects/281849) by desht, MineMaarten
+- [Probe](https://www.curseforge.com/projects/312683) by Yesterday17
 - [Project EX](https://www.curseforge.com/projects/311378) by LatvianModder
 - [Project Intelligence](https://www.curseforge.com/projects/306028) by brandon3055
 - [ProjectE](https://www.curseforge.com/projects/226410) by sinkillerj, Moze_Intel
-- [QuantumFlux](https://www.curseforge.com/projects/228609)
+- [Psi](https://www.curseforge.com/projects/241665) by Vazkii
+- [Psio](https://www.curseforge.com/projects/339394) by phantamanta44
+- [Quantum Minecraft Dynamics](https://www.curseforge.com/projects/362056) by lach_01298, Contributors: sanrom, zalgo, WuzgXY, igntuman, rtxyd, Pu-238, Determancer,tomdodd4598, FishingPole
+- [QuantumFlux](https://www.curseforge.com/projects/228609) by Jotato
 - [Quark: RotN Edition](https://www.curseforge.com/projects/417392) by Vazkii, wiiv, democat3457, Asterixxx, Yeelp
-- [Recurrent Complex](https://www.curseforge.com/projects/223150)
+- [Random Things](https://www.curseforge.com/projects/59816) by Lumien
+- [Rats: Rebirth of the Plague](https://www.curseforge.com/projects/439001) by Alexthe666, Davoleo
+- [Reactor Builder](https://www.curseforge.com/projects/423743) by SonarSonic
+- [Reborn Core](https://www.curseforge.com/projects/237903) by modmuss50, Gigabit101, Prospector
+- [RecipeStages](https://www.curseforge.com/projects/280554) by Jared
+- [Recurrent Complex](https://www.curseforge.com/projects/223150) by Ivorius
 - [Redstone Flux](https://www.curseforge.com/projects/270789) by Team CoFH
-- [Reliquary Reincarnations](https://www.curseforge.com/projects/241319)
+- [Reliquary](https://www.curseforge.com/projects/241319) by x3n0ph0b3, TheMike, P3pp3rF1y
 - [Resource Loader](https://www.curseforge.com/projects/226447) by lumien
-- [RFTools Control](https://www.curseforge.com/projects/250763)
-- [RFTools Dimensions](https://www.curseforge.com/projects/240950)
+<!-- - [Rex's Additional Structures](https://www.curseforge.com/projects/297680) by XxRexRaptorxX (RexRaptor) -->
+- [RFTools Control](https://www.curseforge.com/projects/250763) by McJty
+- [RFTools Dimensions](https://www.curseforge.com/projects/240950) by McJty
 - [RFTools Power](https://www.curseforge.com/projects/290209)
-- [RFTools](https://www.curseforge.com/projects/224641)
-- [Roots](https://www.curseforge.com/projects/246183)
+- [RFTools](https://www.curseforge.com/projects/224641) by McJty
+- [Roots](https://www.curseforge.com/projects/246183) by EpicSquid, Martacus, Noobanidus, Davoleo, Kalaxi, Elucent, ByThePowerOfScience
 - [RoughlyEnoughIDs](https://www.curseforge.com/projects/629017) by Runemoro, ZombieHDGaming
-- [Rustic](https://www.curseforge.com/projects/256141)
-- [Scannable](https://www.curseforge.com/projects/266784)
+<!-- - [Rustic](https://www.curseforge.com/projects/256141) by the-realest-stu -->
+- [Scaling Health](https://www.curseforge.com/projects/248027) by SilentChaos512
+- [Scannable](https://www.curseforge.com/projects/266784) by Sangar
+- [SerializationIsBad](https://www.curseforge.com/projects/896591)
 - [Shadowfacts' Forgelin](https://www.curseforge.com/projects/248453) by shadowfacts
-- [Simply Jetpacks 2](https://www.curseforge.com/projects/251792)
+- [Silent Lib](https://www.curseforge.com/projects/242998) by SilentChaos512
+- [Simple Void World](https://www.curseforge.com/projects/254466)
+- [Simply Jetpacks 2](https://www.curseforge.com/projects/251792) by Tomson124, StormedPanda
 - [Sledgehammer](https://www.curseforge.com/projects/319175) by LX_Gaming
 - [Smooth Font](https://www.curseforge.com/projects/285742) by bre2el
-- [Sound Device Options](https://www.curseforge.com/projects/306555)
+- [Solar Flux Reborn](https://www.curseforge.com/projects/246974) by Zeitheron
+- [Soot](https://www.curseforge.com/projects/281528) by BordListian
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/projects/277616) by Cazsius, Talonos, juliand665
 - [Storage Drawers](https://www.curseforge.com/projects/223852) by jaquadro
-- [Super Sound Muffler: Revived](https://www.curseforge.com/projects/363856)
-- [Tesla Core Lib](https://www.curseforge.com/projects/254602)
-- [Thaumcraft](https://www.curseforge.com/projects/223628)
-- [Thaumic Augmentation](https://www.curseforge.com/projects/319441)
-- [Thaumic Energistics Extended Life](https://www.curseforge.com/projects/849094)
-- [Thaumic Inventory Scanning (Thaumcraft Addon)](https://www.curseforge.com/projects/238003)
-- [Thaumic JEI](https://www.curseforge.com/projects/285492)
-- [The Erebus](https://www.curseforge.com/projects/220698)
+- [Stupid Things](https://www.curseforge.com/projects/267901) by Furgl
+- [Super Sound Muffler: Revived](https://www.curseforge.com/projects/363856) by EdgarAllen
+- [SuperMartijn642's Core Lib](https://www.curseforge.com/projects/454372) by SuperMartijn642
+- [Tesla Core Lib](https://www.curseforge.com/projects/254602) by Face_of_Cat
+- [Thaumcrafft Inventory Scanning](https://www.curseforge.com/projects/238003) by BlayTheNinth
+- [Thaumcraft](https://www.curseforge.com/projects/223628) by Azanor
+- [Thaumic Augmentation](https://www.curseforge.com/projects/319441) by TheCodex6824
+- [Thaumic Energistics](https://www.curseforge.com/projects/849094) by Nividica, BrockWS
+- [Thaumic Speedup](https://www.curseforge.com/projects/409880) by Rongmario
+- [Thaumic Wonders](https://www.curseforge.com/projects/316704) by Daedalus4096
+- [ThaumicJEI](https://www.curseforge.com/projects/285492) by Buuz135
+- [The Betweenlands](https://www.curseforge.com/projects/243363) by Angry Pixel
 - [The Twilight Forest](https://www.curseforge.com/projects/227639) by Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus
+<!-- - [Thermal Cultivation](https://www.curseforge.com/projects/271835) by Team CoFH -->
+- [Thermal Dynamics](https://www.curseforge.com/projects/227443) by Team CoFH
 - [Thermal Expansion](https://www.curseforge.com/projects/69163) by Team CoFH
 - [Thermal Foundation](https://www.curseforge.com/projects/222880) by Team CoFH
+- [Thermal Innovation](https://www.curseforge.com/projects/291737) by Team CoFH
+- [Tick Dynamic](https://www.curseforge.com/projects/900547) by The_Fireplace, Wildex999
+- [Tinker Stages](https://www.curseforge.com/projects/275343) by Darkhax
 - [Tinkers Tool Leveling](https://www.curseforge.com/projects/250957) by boni
+- [Tinkers' Complement](https://www.curseforge.com/projects/272671) by KnightMiner
 - [Tinkers' Construct](https://www.curseforge.com/projects/74072) by boni, KnightMiner
-- [Tinkers' Evolution](https://www.curseforge.com/projects/384589)
-- [TipTheScales](https://www.curseforge.com/projects/282313)
+- [Tinkers' Evolution](https://www.curseforge.com/projects/384589) by phantamanta44
+- [Tips](https://www.curseforge.com/projects/306549) by Darkhax
+- [TipTheScales](https://www.curseforge.com/projects/282313) by Jared
 - [Tomb Many Graves](https://www.curseforge.com/projects/262823) by M4thG33k, Tiffit
-- [Totemic](https://www.curseforge.com/projects/237541)
-- [Translocators 1.8.+](https://www.curseforge.com/projects/247695)
+- [Tool Progression](https://www.curseforge.com/projects/266550) by tyra314
+- [ToroHealth Damage Indicators](https://www.curseforge.com/projects/245733) by torocraft
+- [Totemic](https://www.curseforge.com/projects/237541) by Pokefenn, ljfa
+- [Translocators](https://www.curseforge.com/projects/247695) by ChickenBones
+- [Trash Cans](https://www.curseforge.com/projects/394535) by SuperMartijn642
+- [Traveler's Backpack](https://www.curseforge.com/projects/321117) by Tiviacz1337
+- [Trinity](https://www.curseforge.com/projects/354949) by Pu_238
+- [Tweaked Excavation](https://www.curseforge.com/projects/687630) by Srki_2K
+- [Tweaked Lib](https://www.curseforge.com/projects/687632) by Srki_2K
+- [Tweaked Petroleum: Gas Addon](https://www.curseforge.com/projects/667524) by Srki_2K
+- [Tweaked Petroleum](https://www.curseforge.com/projects/653506) by Srki_2K
 - [Tweakers Construct](https://www.curseforge.com/projects/282623)
 - [Universal Tweaks](https://www.curseforge.com/projects/705000) by ACGaming
 - [Valkyrie Lib](https://www.curseforge.com/projects/245480) by ValkyrieofNight
 - [VintageFix](https://www.curseforge.com/projects/871198) by embeddedt
 - [Waila](https://www.curseforge.com/projects/253449) by ProfMobius, TehNut
 - [What Are We Looking At](https://www.curseforge.com/projects/224712) by Darkhax
-- [WizardryUtils](https://www.curseforge.com/projects/608287)
+- [WizardryUtils](https://www.curseforge.com/projects/608287) by WinDanesz
 - [Xaero's Minimap](https://www.curseforge.com/projects/263420) by Xaero96
 - [Xaero's World Map](https://www.curseforge.com/projects/317780) by Xaero96
 - [XNet](https://www.curseforge.com/projects/260912) by McJty
-- [xXx_MoreToolMats_xXx](https://www.curseforge.com/projects/376903)
 - [YNot](https://www.curseforge.com/projects/283589) by asie
 - [YUNG's Better Caves](https://www.curseforge.com/projects/340583) by YUNGNICKYOUNG
 - [ZenUtils](https://www.curseforge.com/projects/401178) by youyihj
+- [Zero CORE](https://www.curseforge.com/projects/247921) by ZeroNoRyouki

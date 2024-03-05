@@ -5,58 +5,40 @@
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "nuclearcraft:ore",
-					"metadata": 6
-				},
+				"block": [
+					{
+						"name": "immersiveintelligence:ore",
+						"metadata": 1,
+						"weight": 25
+					},
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 6,
+						"weight": 25
+					},
+					{
+						"name": "appliedenergistics2:quartz_ore",
+						"weight": 22
+					},
+					{
+						"name": "appliedenergistics2:quartz_block",
+						"weight": 3
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "aluminum"
+						},
+						"weight": 25
+					}
+				],
 				"material": "minecraft:stone",
-				"cluster-size": 12
+				"cluster-size": 26
 			},
 			"cluster-count": 2,
-			"min-height": 10,
-			"max-height": 35,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"uranium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "nuclearcraft:ore",
-					"metadata": 4
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 6
-			},
-			"cluster-count": 2,
-			"min-height": 5,
-			"max-height": 35,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"thorium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "nuclearcraft:ore",
-					"metadata": 3
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 16
-			},
-			"cluster-count": 1,
-			"min-height": 40,
-			"max-height": 65,
+			"chunk-chance": 8,
+			"min-height": 8,
+			"max-height": 40,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
@@ -68,17 +50,31 @@
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "nuclearcraft:ore",
-					"metadata": 7
-				},
+				"block": [
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 7,
+						"weight": 33
+					},
+					{
+						"name": "bewitchment:amethyst_ore",
+						"weight": 33
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "iridium"
+						},
+						"weight": 33
+					}
+				],
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 26
 			},
-			"cluster-count": 3,
-			"min-height": 10,
-			"max-height": 50,
-			"retrogen": "false",
+			"cluster-count": 2,
+			"chunk-chance": 8,
+			"min-height": 8,
+			"max-height": 40,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -89,17 +85,33 @@
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "nuclearcraft:ore",
-					"metadata": 5
-				},
+				"block": [
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 5,
+						"weight": 40
+					},
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 3,
+						"weight": 10
+					},
+					{
+						"name": "minecraft:coal_ore",
+						"weight": 35
+					},
+					{
+						"name": "matteroverdrive:tritanium_ore",
+						"weight": 15
+					}
+				],
 				"material": "minecraft:stone",
-				"cluster-size": 6
+				"cluster-size": 23
 			},
-			"cluster-count": 4,
-			"min-height": 5,
-			"max-height": 65,
-			"retrogen": "false",
+			"cluster-count": 2,
+			"chunk-chance": 8,
+			"min-height": 8,
+			"max-height": 40,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",

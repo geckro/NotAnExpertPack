@@ -1,183 +1,37 @@
 {
 	"dependencies": "thermalfoundation",
 	"populate": {
-		"copper": {
+		"copper_aluminum": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "copper"
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "copper"
+						},
+						"weight": 60
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "aluminum"
+						},
+						"weight": 30
+					},
+					{
+						"name": "minecraft:coal_ore",
+						"weight": 10
 					}
-				},
+				],
 				"material": "minecraft:stone",
-				"cluster-size": 24
-			},
-			"cluster-count": 4,
-			"min-height": 50,
-			"max-height": 200,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"tin": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "tin"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 8
-			},
-			"cluster-count": 7,
-			"min-height": 30,
-			"max-height": 75,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"silver": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "silver"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 16
-			},
-			"cluster-count": 2,
-			"min-height": 10,
-			"max-height": 40,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"lead": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "lead"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 16
-			},
-			"cluster-count": 2,
-			"min-height": 15,
-			"max-height": 50,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"nickel": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "nickel"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 8
-			},
-			"cluster-count": 2,
-			"min-height": 5,
-			"max-height": 35,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"platinum": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "platinum"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 24
-			},
-			"cluster-count": 1,
-			"min-height": 1,
-			"max-height": 100,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"aluminum": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "aluminum"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 12
+				"cluster-size": 26
 			},
 			"cluster-count": 6,
-			"min-height": 55,
-			"max-height": 80,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
-			}
-		},
-		"iridium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "iridium"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 5,
-			"max-height": 25,
+			"chunk-chance": 6,
+			"min-height": 45,
+			"max-height": 180,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {

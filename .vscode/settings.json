@@ -15,7 +15,19 @@
         "**/TombManyGraves/": true,
         "**/user*cache.json": true,
         "**/vintagefix/": true,
-        "**/Xaero*/": true
+        "**/betweenlands_gallery": true,
+        "**/astralsorcery": true,
+        "**/assets/": true,
+        "**/Xaero*/": true,
+        "**/EnderStorage": true,
+        "**/llibrary": true,
+        "**/patchouli_data.json": true,
+        "**/ears-debug.log": true,
+        "**/structures": true,
+        "**/orbis": true,
+        "**/dumps": true,
+        "**/BotaniaVars.dat": true,
+        "**/caches": true
     },
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false

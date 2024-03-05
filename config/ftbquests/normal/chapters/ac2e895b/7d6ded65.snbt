@@ -1,0 +1,20 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "929a6a66",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	},
+	{
+		uid: "cbb263eb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}]
+}

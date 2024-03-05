@@ -55,3 +55,6 @@ config/brandon3055/contributors.json
 config/machinemuse/cosmeticpresets/
 config/solarflux/textures/example_base.png
 config/solarflux/textures/example_top.png
+config/splash.properties
+config/xaerominimap_entities.json
+config/astralsorcery/amulet_enchantments.cfg
