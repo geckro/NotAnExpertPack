@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "13264b7a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}],
+		count: 4L
+	}]
+}

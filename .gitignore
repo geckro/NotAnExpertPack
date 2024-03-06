@@ -58,3 +58,7 @@ config/solarflux/textures/example_top.png
 config/splash.properties
 config/xaerominimap_entities.json
 config/astralsorcery/amulet_enchantments.cfg
+config/splash.properties
+config/startuptimer/startup_times.json
+config/astralsorcery/amulet_enchantments.cfg
+config/xaerominimap_entities.json

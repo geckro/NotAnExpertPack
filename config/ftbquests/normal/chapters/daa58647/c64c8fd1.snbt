@@ -1,0 +1,20 @@
+{
+	title: "Improving the Improved",
+	x: -4.0d,
+	y: -2.0d,
+	description: "Makes the Improved Blast Furnace faster.",
+	text: [
+		""
+	],
+	dependencies: [
+		"703d56c2"
+	],
+	tasks: [{
+		uid: "add443d4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1"
+		}],
+		count: 2L
+	}]
+}

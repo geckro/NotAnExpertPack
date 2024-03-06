@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	dependencies: [
+		"5562e33d"
+	],
+	tasks: [{
+		uid: "ff61df86",
+		type: "item",
+		items: [{
+			id: "avaritia:infinity_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

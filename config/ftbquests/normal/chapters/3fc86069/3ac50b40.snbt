@@ -1,0 +1,19 @@
+{
+	title: "Storage Upgrades",
+	x: -5.0d,
+	y: 0.0d,
+	description: "Increase the size of the drawer.",
+	text: [
+		"There are more upgrades then this."
+	],
+	dependencies: [
+		"f4218430"
+	],
+	tasks: [{
+		uid: "88ab9839",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage"
+		}]
+	}]
+}

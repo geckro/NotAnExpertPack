@@ -1,8 +1,13 @@
 {
-	x: 0.5d,
-	y: -1.0d,
+	title: "Coke Oven",
+	x: -5.0d,
+	y: 0.5d,
+	description: "Turns Coal into Coal Coke and creates Creosote Oil.",
+	text: [
+		""
+	],
 	tasks: [{
-		uid: "929a6a66",
+		uid: "a8883522",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:stone_decoration"
@@ -10,7 +15,7 @@
 		count: 27L
 	},
 	{
-		uid: "cbb263eb",
+		uid: "665e1fdb",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:tool"

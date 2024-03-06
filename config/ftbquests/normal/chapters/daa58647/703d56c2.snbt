@@ -1,0 +1,27 @@
+{
+	title: "Blast Furnace (Improved)",
+	x: -3.0d,
+	y: -1.0d,
+	description: "Can be automated and can be made faster.",
+	text: [
+		""
+	],
+	dependencies: [
+		"36ee284d"
+	],
+	tasks: [{
+		uid: "f0bbab23",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	},
+	{
+		uid: "4a17c295",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}]
+}
