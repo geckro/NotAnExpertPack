@@ -1,6 +1,6 @@
 # Modlist
 
-## Content Mods
+## Content Mods (195)
 
 - [**/dank/null/ (No RCE)**](https://www.curseforge.com/projects/896355) by jbredwards, TheRealp455w0rd
 - [**Actually Additions**](https://www.curseforge.com/projects/228404) by Ellpeck
@@ -196,7 +196,7 @@
 - [**YNot**](https://www.curseforge.com/projects/283589) by asie
 - [**YUNG's Better Caves**](https://www.curseforge.com/projects/340583) by YUNGNICKYOUNG
 
-## Library, Tweak and/or Performance Mods
+## Library, Tweak and/or Performance Mods (98)
 
 - [**AlchemyLib**](https://www.curseforge.com/projects/293426) by Dark_Arcana
 - [**AppleCore**](https://www.curseforge.com/projects/224472) by squeek
