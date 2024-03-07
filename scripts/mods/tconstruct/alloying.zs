@@ -1,4 +1,7 @@
+#modloaded nuclearcraft
+
 import mods.tconstruct.Alloy;
+
 
 mods.tconstruct.Alloy.removeRecipe(<liquid:vivid_alloy>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:dark_steel>);

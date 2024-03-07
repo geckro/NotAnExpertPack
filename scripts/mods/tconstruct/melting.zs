@@ -1,3 +1,5 @@
+#modloaded nuclearcraft
+
 import mods.tconstruct.Melting;
 
 mods.tconstruct.Alloy.removeRecipe(<liquid:vivid_alloy>);
