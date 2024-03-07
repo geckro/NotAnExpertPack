@@ -52,3 +52,19 @@ var clay_seeds = VanillaFactory.createItem("clay_seeds");
 clay_seeds.register();
 var clay_essence = VanillaFactory.createItem("clay_essence");
 clay_essence.register();
+
+// Quartz
+var brown_quartz = VanillaFactory.createItem("brown_quartz");
+brown_quartz.register();
+
+var white_quartz = VanillaFactory.createItem("white_quartz");
+white_quartz.register();
+
+var blizz_quartz = VanillaFactory.createItem("blizz_quartz");
+blizz_quartz.register();
+
+var blitz_quartz = VanillaFactory.createItem("blitz_quartz");
+blitz_quartz.register();
+
+var basalz_quartz = VanillaFactory.createItem("basalz_quartz");
+basalz_quartz.register();

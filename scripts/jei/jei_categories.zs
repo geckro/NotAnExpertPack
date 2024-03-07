@@ -7,3 +7,5 @@ mods.jei.JEI.hideCategory("StirlingGenerator");
 mods.jei.JEI.hideCategory("EIOWC"); // Wireless charger
 mods.jei.JEI.hideCategory("thermalexpansion.charger");
 mods.jei.JEI.hideCategory("mysticalagriculture:reprocessor_jei");
+mods.jei.JEI.hideCategory("embers.dawnstone_anvil");
+mods.jei.JEI.hideCategory("thermaldynamics.covers");
