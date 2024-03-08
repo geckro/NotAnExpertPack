@@ -14,5 +14,3 @@ A pack for 1.12.2. In very early development. It needs a better name, known also
 
 ### Mods that may be removed
 - Advent of Ascension (Low quality compared to DivineRPG, but the sheer content it adds can be useful in pack progression)
-- Alchemistry (Maybe? Seems like just another "Do this and do that" tech mod)
-- Solar Flux Reborn (Too overused)

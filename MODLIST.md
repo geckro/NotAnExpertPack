@@ -12,7 +12,6 @@
 - [**AE2 Network Visualiser**](https://www.curseforge.com/projects/321720)
 - [**AE2 Stuff (Unofficial: Extended)**](https://www.curseforge.com/projects/913357) by serenibyss, bdew, B eecube31
 - [**Aether II (Phosphor Not Included)**](https://www.curseforge.com/projects/917199) by The_Computerizer + Aether II Team
-- [**Alchemistry**](https://www.curseforge.com/projects/293425) by Dark_Arcana
 - [**Animus**](https://www.curseforge.com/projects/229664) by TeamDman, Saereth
 - [**AppleSkin**](https://www.curseforge.com/projects/248787) by squeek
 - [**Aqua Acrobatics**](https://www.curseforge.com/projects/321792) by Fuzs, embeddedt
@@ -70,7 +69,6 @@
 - [**Gendustry**](https://www.curseforge.com/projects/70492) by bdew
 - [**Had Enough Items (JEI Fork)**](https://www.curseforge.com/projects/557549) by mezz, Rongmario
 - [**HWYLA (Waila)**](https://www.curseforge.com/projects/253449) by ProfMobius, TehNut
-- [**Immersive Cables**](https://www.curseforge.com/projects/283992) by SanAndreasP
 - [**Immersive Engineering**](https://www.curseforge.com/projects/231951) by BluSunrize, Damien A.W. Hazard
 - [**Immersive Intelligence**](https://www.curseforge.com/projects/344344) by Pabilo8, Carver, Schaeferd-CZ, Bastian, VDeltaGabriel
 - [**Immersive Magneticraft**](https://www.curseforge.com/projects/630790) by pikabyte1
@@ -109,7 +107,6 @@
 - [**MoreOverlays**](https://www.curseforge.com/projects/243478) by feldim2425
 - [**Mouse Tweaks (Unofficial)**](https://www.curseforge.com/projects/461660) by CleanroomMC, serenibyss, YaLTeR
 - [**Mowzie's Mobs**](https://www.curseforge.com/projects/250498) by BobMowzie, pau101
-- [**MystAgrad Cloche Compat**](https://www.curseforge.com/projects/288959) by NicJames2378
 - [**Mystical Agradditions**](https://www.curseforge.com/projects/256247) by BlakeBr0
 - [**Mystical Agriculture Tiered Crystals**](https://www.curseforge.com/projects/299045) by Ilovepie220
 - [**Mystical Agriculture**](https://www.curseforge.com/projects/246640) by BlakeBr0
@@ -130,7 +127,6 @@
 - [**PackagedExCrafting**](https://www.curseforge.com/projects/322861) by TheLMiffy1111
 - [**PackagedThaumic**](https://www.curseforge.com/projects/908613) by TheLMiffy1111
 - [**Pam's HarvestCraft**](https://www.curseforge.com/projects/221857) by Pamela Collins
-- [**Pillar**](https://www.curseforge.com/projects/919371) by Vazkii, ACGaming
 - [**Plethora Peripherals**](https://www.curseforge.com/projects/248425) by SquidDev
 - [**PneumaticCraft: Repressurized**](https://www.curseforge.com/projects/281849) by desht, MineMaarten
 - [**Project EX**](https://www.curseforge.com/projects/311378) by LatvianModder
@@ -152,7 +148,6 @@
 - [**Simple Trophies**](https://www.curseforge.com/projects/301310) by quaternary
 - [**Simple Void World**](https://www.curseforge.com/projects/254466)
 - [**Smooth Font**](https://www.curseforge.com/projects/285742) by bre2el
-- [**Solar Flux Reborn**](https://www.curseforge.com/projects/246974) by Zeitheron
 - [**Soot**](https://www.curseforge.com/projects/281528) by BordListian
 - [**Sound Device Options**](https://www.curseforge.com/projects/306555) by ichttt
 - [**Spice of Life (Carrot Edition)**](https://www.curseforge.com/projects/277616) by Cazsius, Talonos, juliand665
@@ -193,7 +188,6 @@
 
 ## Library, Tweak and/or Performance Mods (98)
 
-- [**AlchemyLib**](https://www.curseforge.com/projects/293426) by Dark_Arcana
 - [**AppleCore**](https://www.curseforge.com/projects/224472) by squeek
 - [**Astral Level Nerf**](https://www.curseforge.com/projects/463445) by Mixu_78
 - [**Atlas Lib**](https://www.curseforge.com/projects/463826) by Smileycorp
