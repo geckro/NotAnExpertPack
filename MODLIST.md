@@ -2,6 +2,17 @@
 
 ## Content Mods + Addons
 
+<style>
+  .category {
+    font-size: smaller;
+  }
+  .magic {
+    color: darkred;
+  }
+  .magic::before{
+    content: '『 Magic 』';
+  }
+</style>
 - [**/dank/null/ (No RCE)**](https://www.curseforge.com/projects/896355) by jbredwards, TheRealp455w0rd
 - [**Actually Additions**](https://www.curseforge.com/projects/228404) by Ellpeck
   - [**Actually Baubles**](https://www.curseforge.com/projects/273430) by Jacky1356400
@@ -27,7 +38,7 @@
 - [**Bewitchment**](https://www.curseforge.com/projects/285439) by Bewitchment Team
 - [**Biomes O' Plenty**](https://www.curseforge.com/projects/220318) by Adubbz, Amnet, Cheeserolls, Forstride, ted80
 - [**Blockcraftery**](https://www.curseforge.com/projects/278882) by Elucent, EpicSquid
-- [**Blood Magic**](https://www.curseforge.com/projects/224791) by WayofTime, TehNut
+- [**Blood Magic**](https://www.curseforge.com/projects/224791) by WayofTime, TehNut <span class='category magic'></span>
   - [**Animus**](https://www.curseforge.com/projects/229664) by TeamDman, Saereth
 - [**Botania**](https://www.curseforge.com/projects/225643) by Vazkii, williewillus, wiiv, dylan4ever
   - [**Botania Tweaks**](https://www.curseforge.com/projects/295114) by quaternary
