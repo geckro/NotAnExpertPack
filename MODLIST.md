@@ -38,11 +38,9 @@
 - [**Chunk Animator**](https://www.curseforge.com/projects/236484) by lumien
 - [**Compact Machines**](https://www.curseforge.com/projects/224218) by Davenonymous
 - [**Compacter**](https://www.curseforge.com/projects/231549) by bdew
-- [**Construct's Armory**](https://www.curseforge.com/projects/287683) by C4
 - [**Controlling**](https://www.curseforge.com/projects/250398) by Jaredlll08
 - [**Cooking for Blockheads**](https://www.curseforge.com/projects/231484) by BlayTheNinth
 - [**Crafting Tweaks (Unofficial)**](https://www.curseforge.com/projects/633720) by CleanroomMC
-- [**Cyclic**](https://www.curseforge.com/projects/239286) by Lothrazar
 - [**Dark Utilities**](https://www.curseforge.com/projects/242195) by Darkhax
 - [**Deep Blood Evolution**](https://www.curseforge.com/projects/836009) by GlodBlock
 - [**DeepMobEvolution**](https://www.curseforge.com/projects/737252) by Pansmith, serenibyss
@@ -147,14 +145,12 @@
 - [**Reliquary**](https://www.curseforge.com/projects/241319) by x3n0ph0b3, TheMike, P3pp3rF1y
 - [**RFTools Control**](https://www.curseforge.com/projects/250763) by McJty
 - [**RFTools Dimensions**](https://www.curseforge.com/projects/240950) by McJty
-- [**RFTools Power**](https://www.curseforge.com/projects/290209)
 - [**RFTools**](https://www.curseforge.com/projects/224641) by McJty
 - [**Roots**](https://www.curseforge.com/projects/246183) by EpicSquid, Martacus, Noobanidus, Davoleo, Kalaxi, Elucent, ByThePowerOfScience
 - [**Scaling Health**](https://www.curseforge.com/projects/248027) by SilentChaos512
 - [**Scannable**](https://www.curseforge.com/projects/266784) by Sangar
 - [**Simple Trophies**](https://www.curseforge.com/projects/301310) by quaternary
 - [**Simple Void World**](https://www.curseforge.com/projects/254466)
-- [**Simply Jetpacks 2**](https://www.curseforge.com/projects/251792) by Tomson124, StormedPanda
 - [**Smooth Font**](https://www.curseforge.com/projects/285742) by bre2el
 - [**Solar Flux Reborn**](https://www.curseforge.com/projects/246974) by Zeitheron
 - [**Soot**](https://www.curseforge.com/projects/281528) by BordListian
@@ -192,7 +188,6 @@
 - [**Xaero's World Map**](https://www.curseforge.com/projects/317780) by Xaero96
 - [**XNet**](https://www.curseforge.com/projects/260912) by McJty
 - [**xXx_MoreToolMats_xXx (PlusTiC)**](https://www.curseforge.com/projects/376903) by TeamDman
-- [**YAMDA**](https://www.curseforge.com/projects/314569) by Sunekaer
 - [**YNot**](https://www.curseforge.com/projects/283589) by asie
 - [**YUNG's Better Caves**](https://www.curseforge.com/projects/340583) by YUNGNICKYOUNG
 
@@ -230,7 +225,6 @@
 - [**Cyclops Core**](https://www.curseforge.com/projects/232758) by kroeserr, immortaleeb
 - [**Default Options**](https://www.curseforge.com/projects/232131) by BlayTheNinth
 - [**Dimension Stages**](https://www.curseforge.com/projects/269398) by Darkhax
-- [**Dynamic View Mod**](https://www.curseforge.com/projects/366140) by Someaddons
 - [**EnderCore**](https://www.curseforge.com/projects/231868) by tterrag, CrazyPants, HenryLoenwind
 - [**FPS Reducer**](https://www.curseforge.com/projects/280294) by bre2el
 - [**FTB Library (Legacy)**](https://www.curseforge.com/projects/237167) by LatvianModder

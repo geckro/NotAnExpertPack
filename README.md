@@ -5,35 +5,14 @@ A pack for 1.12.2. In very early development. It needs a better name, known also
 
 ## Mod notes
 
-[mod list](MODLIST.md)
-
-### Mods that will not be included
-- Any mod that adds a lot of block/item IDs
-- Apotheosis
-- BetterNether / NetherEx
-- BuildCraft
-- Charm
-- Extra Utils 2 / TMEL
-- GregTech
-- IC2
-- Ice and Fire
-- JourneyMap (Xaero is better)
-- OpenComputers (not CC)
-- RailCraft
-- Ruins (Custom structure worldgen is planned)
-- Tech Reborn
-- Woot (Deep Mob Evolution is already here)
+[Mod List](MODLIST.md)
 
 ### Mods that may be included, but not a priority
-- Refined Storage (Just configuration files)
+- Refined Storage (Just configuration files) (AE2 is better but people seem to like RS)
+- Apotheosis
 - Vampirism
 
 ### Mods that may be removed
-- Aether II
-- Betweenlands
-- DivineRPG or AoA
-- Extreme Reactors
-- Nature's Aura
-- RFTools Control
-- RFTools Dimensions
-- Trinity
+- Advent of Ascension (Low quality compared to DivineRPG, but the sheer content it adds can be useful in pack progression)
+- Alchemistry (Maybe? Seems like just another "Do this and do that" tech mod)
+- Solar Flux Reborn (Too overused)
