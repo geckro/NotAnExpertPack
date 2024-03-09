@@ -2,12 +2,6 @@
 
 import mods.thermalexpansion.Crucible;
 
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:armor_trim>);
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:polishing_kit>);
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:boots_core>);
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:chest_core>);
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:leggings_core>);
-mods.thermalexpansion.Crucible.removeRecipe(<conarm:helmet_core>);
 mods.thermalexpansion.Crucible.removeRecipe(<tcomplement:chisel_head>);
 mods.thermalexpansion.Crucible.removeRecipe(<tconstruct:axe_head>);
 mods.thermalexpansion.Crucible.removeRecipe(<tconstruct:binding>);

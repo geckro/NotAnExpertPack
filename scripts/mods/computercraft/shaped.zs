@@ -1,0 +1,9 @@
+#modloaded computercraft
+
+recipes.addShaped(<computercraft:computer>, [[<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>],[<ore:plateInvar>, <enderio:item_basic_capacitor:1>, <ore:plateInvar>], [<ore:plateSteel>, <appliedenergistics2:quartz_vibrant_glass>, <ore:plateSteel>]]);
+recipes.addShaped(<computercraft:computer:16384>, [[<ore:plateLumium>, <ore:wireElectrum>, <ore:plateLumium>],[<ore:wireElectrum>, <pneumaticcraft:transistor>, <ore:wireElectrum>], [<ore:plateLumium>, <computercraft:computer>, <ore:plateLumium>]]);
+recipes.addShaped(<computercraft:turtle_expanded>, [[<ore:ingotConstructionAlloy>, <harvestcraft:turtlerawitem>, <ore:ingotConstructionAlloy>],[<ore:ingotElectricalSteel>, <minecraft:chest>, <ore:ingotElectricalSteel>], [<ore:ingotConstructionAlloy>, <computercraft:computer>, <ore:ingotConstructionAlloy>]]);
+recipes.addShaped(<computercraft:turtle_advanced>, [[<ore:ingotVibrantAlloy>, <harvestcraft:turtlerawitem>, <ore:ingotVibrantAlloy>],[<ore:ingotEndSteel>, <minecraft:chest>, <ore:ingotEndSteel>], [<ore:ingotVibrantAlloy>, <computercraft:computer:16384>, <ore:ingotVibrantAlloy>]]);
+recipes.addShaped(<computercraft:peripheral:4> * 4, [[<ore:plateLumium>, <ore:ingotAlubrass>, <ore:plateLumium>],[<ore:ingotAlubrass>, <appliedenergistics2:quartz_vibrant_glass>, <ore:ingotAlubrass>], [<ore:plateLumium>, <ore:ingotAlubrass>, <ore:plateLumium>]]);
+recipes.addShaped(<computercraft:peripheral:2> * 4, [[<ore:plateSteel>, <ore:plateInvar>, <ore:plateSteel>],[<ore:plateInvar>, <appliedenergistics2:quartz_vibrant_glass>, <ore:plateInvar>], [<ore:plateSteel>, <ore:plateInvar>, <ore:plateSteel>]]);
+recipes.addShaped(<computercraft:peripheral:3>, [[<ore:ingotIronCompressed>, <ore:ingotElectricalSteel>, <ore:ingotIronCompressed>],[<ore:plateSteel>, <computercraft:computer>, <ore:plateSteel>], [<ore:ingotElectricalSteel>, <ore:bookshelf>, <ore:ingotElectricalSteel>]]);

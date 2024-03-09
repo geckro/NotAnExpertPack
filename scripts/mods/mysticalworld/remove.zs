@@ -1,0 +1,1 @@
+recipes.removeByRecipeName("mysticalworld:book");
