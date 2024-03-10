@@ -12,7 +12,6 @@ mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:34
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:37>);
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:38>);
 mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:36>);
-mods.immersiveengineering.MetalPress.removeRecipe(<embers:plate_aluminum>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:357>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:358>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:359>);

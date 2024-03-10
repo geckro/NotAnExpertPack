@@ -54,8 +54,8 @@
   - [**Electroblob's Wizardry: Twilight Forest**](https://www.curseforge.com/projects/363993) ^
   - [**Extra Spells**](https://www.curseforge.com/projects/310745) by Meldexun
   - [**Mo' Spells**](https://www.curseforge.com/projects/522529) by WinDanesz
-- [**Embers Rekindled**](https://www.curseforge.com/projects/300777) by BordListian, Elucent, AlexisMachina, ShadowGamerXY, werty1124 『 **Tech** 』 『 **Magic** 』
-  - [**Soot**](https://www.curseforge.com/projects/281528) by BordListian
+- [**Embers (UEL)**](https://www.curseforge.com/projects/936489) by Ender-Development 『 **Tech** 』 『 **Magic** 』
+  - [**Soot (UEL)**](https://www.curseforge.com/projects/982730) by BordListian
 - [**Ender IO**](https://www.curseforge.com/projects/64578) by CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid 『 **Tech** 』
   - [**Ender IO Endergy**](https://www.curseforge.com/projects/304346) by EpicSquid, CrazyPants, tterrag, HenryLoenwind
   - [**GasConduits**](https://www.curseforge.com/projects/309756) by pupnewfster
@@ -142,7 +142,7 @@
 - [**QuantumFlux**](https://www.curseforge.com/projects/228609) by Jotato 『 **Tech** 』
 - [**Quark (RoTN)**](https://www.curseforge.com/projects/417392) by Vazkii, wiiv, democat3457, Asterixxx, Yeelp
 - [**Random Things**](https://www.curseforge.com/projects/59816) by Lumien
-- [**Rats: Rebirth of the Plague**](https://www.curseforge.com/projects/439001) by Alexthe666, Davoleo 『 **Rats** 』
+- [**Rats: RoTN edition**](https://www.curseforge.com/projects/439001) by SandwichHorror 『 **Rats** 』
 - [**Recurrent Complex**](https://www.curseforge.com/projects/223150) by Ivorius 『 **Exploration** 』
 - [**Reliquary**](https://www.curseforge.com/projects/241319) by x3n0ph0b3, TheMike, P3pp3rF1y
 - [**RFTools**](https://www.curseforge.com/projects/224641) / [**Control**](https://www.curseforge.com/projects/250763) / [**Dimensions**](https://www.curseforge.com/projects/240950) by McJty 『 **Tech** 』
@@ -191,7 +191,7 @@
 - [**B.A.S.E**](https://www.curseforge.com/projects/246996) by SkySom, Lanse505, Jared, EwyBoy
 - [**Bad Mobs**](https://www.curseforge.com/projects/233258) by Darkhax
 - [**Bansoukou**](https://www.curseforge.com/projects/434344) by CleanroomMC
-- [**Baubles**](https://www.curseforge.com/projects/227083) by Azanor
+- [**Baubles LTS**](https://www.curseforge.com/projects/655747) by X_Niter, Azanor
 - [**BD Lib**](https://www.curseforge.com/projects/70496) by bdew
 - [**Better Advancements**](https://www.curseforge.com/projects/272515) by way2muchnoise
 - [**Better Biome Blend**](https://www.curseforge.com/projects/446253) by FionaTheMortal 『 **Performance** 』 『 **Client-side** 』
@@ -274,7 +274,7 @@
 - [**SerializationIsBad**](https://www.curseforge.com/projects/896591) by Dogboy21
 - [**Smooth Font**](https://www.curseforge.com/projects/285742) by bre2el  『 **Client-side** 』
 - [**Sound Device Options**](https://www.curseforge.com/projects/306555) by ichttt  『 **Client-side** 』
-- [**Shadowfacts' Forgelin**](https://www.curseforge.com/projects/248453) by shadowfacts
+- [**Forgelin Contuined**](https://www.curseforge.com/projects/456403) by ChAoS_UnItY, shadowfacts, teksturepako
 - [**Silent Lib**](https://www.curseforge.com/projects/242998) by SilentChaos512
 - [**Sledgehammer**](https://www.curseforge.com/projects/319175) by LX_Gaming
 - [**StartupTimer**](https://www.curseforge.com/projects/782070) by embeddedt
