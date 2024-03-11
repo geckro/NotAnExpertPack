@@ -20,6 +20,7 @@ recipes.addShaped(<minecraft:jukebox>, [[<ore:ingotTin>, <ore:nuggetDiamond>, <o
 recipes.addShaped(<minecraft:jungle_boat>, [[<minecraft:wooden_shovel>, null, <minecraft:wooden_shovel>],[<minecraft:planks:3>, null, <minecraft:planks:3>], [<minecraft:planks:3>, <minecraft:planks:3>, <minecraft:planks:3>]]);
 recipes.addShaped(<minecraft:observer>, [[<quark:sturdy_stone>, <quark:sturdy_stone>, <quark:sturdy_stone>],[<ore:quartzRed>, <ore:quartzRed>, <ore:quartzBlaze>], [<quark:sturdy_stone>, <quark:sturdy_stone>, <quark:sturdy_stone>]]);
 recipes.addShaped(<minecraft:piston>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],[<quark:sturdy_stone>, <ore:ingotSilver>, <quark:sturdy_stone>], [<quark:sturdy_stone>, <minecraft:redstone>, <quark:sturdy_stone>]]);
+recipes.addShaped(<minecraft:rail> * 16, [[<ore:stickIron>, null, <ore:stickIron>],[<ore:stickAluminum>, <ore:stickWood>, <ore:stickAluminum>], [<ore:stickIron>, null, <ore:stickIron>]]);
 recipes.addShaped(<minecraft:saddle>, [[<ore:dyeOrange>, <immersiveintelligence:material:27>, <ore:dyeOrange>],[<immersiveintelligence:material:27>, <ore:dyeOrange>, <immersiveintelligence:material:27>], [<ore:ingotLead>, null, <ore:ingotLead>]]);
 recipes.addShaped(<minecraft:saddle>, [[<ore:dyeOrange>, <roots:fey_leather>, <ore:dyeOrange>],[<roots:fey_leather>, <ore:dyeOrange>, <roots:fey_leather>], [<ore:ingotLead>, null, <ore:ingotLead>]]);
 recipes.addShaped(<minecraft:shears>, [[null, <ore:ingotIron>, null],[null, <ore:leather>, <ore:ingotIron>], [<ore:leather>, null, null]]);

@@ -1,3 +1,6 @@
+#modloaded avaritia
+#modloaded extendedcrafting
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:5>, [
 	[<ore:ingotCrystalMatrix>, null, null, null, <ore:ingotCrystalMatrix>, null, null, null, <ore:ingotCrystalMatrix>], 
 	[null, <ore:ingotUltimate>, null, <quark:rune:16>, <ore:ingotCrystalMatrix>, <quark:rune:16>, null, <ore:ingotUltimate>, null], 

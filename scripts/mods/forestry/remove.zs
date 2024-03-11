@@ -7,3 +7,6 @@ recipes.removeByRecipeName("forestry:fireproof_doors_spruce");
 recipes.removeByRecipeName("forestry:fireproof_doors_acacia");
 recipes.removeByRecipeName("forestry:fireproof_doors_jungle");
 recipes.removeByRecipeName("forestry:fireproof_doors_dark_oak");
+
+recipes.removeByRecipeName("forestry:greenhouse_window_roof");
+recipes.removeByRecipeName("forestry:greenhouse_window");

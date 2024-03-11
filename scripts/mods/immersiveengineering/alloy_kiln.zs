@@ -1,3 +1,5 @@
+#modloaded immersiveengineering
+
 import mods.immersiveengineering.AlloySmelter;
 
 mods.immersiveengineering.AlloySmelter.removeRecipe(<immersiveengineering:metal:6>);

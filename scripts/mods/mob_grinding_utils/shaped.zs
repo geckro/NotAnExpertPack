@@ -1,3 +1,4 @@
+#modloaded mob_grinding_utils
 
 recipes.addShaped(<mob_grinding_utils:saw_upgrade:1>, [[<ore:nuggetLumium>, <botania:cosmetic:16>, <ore:nuggetLumium>],[<industrialforegoing:fortune_addon>, <tconstruct:large_plate>.withTag({Material: "emberstone"}).onlyWithTag({Material: "emberstone"}), <industrialforegoing:fortune_addon>], [<ore:nuggetLumium>, <botania:cosmetic:16>, <ore:nuggetLumium>]]);
 recipes.addShaped(<mob_grinding_utils:saw_upgrade:2>, [[<ore:nuggetLumium>, <ore:dustAerotheum>, <ore:nuggetLumium>],[<roots:infernal_bulb>, <tconstruct:large_plate>.withTag({Material: "emberstone"}).onlyWithTag({Material: "emberstone"}), <roots:infernal_bulb>], [<ore:nuggetLumium>, <ore:dustPyrotheum>, <ore:nuggetLumium>]]);

@@ -1,3 +1,5 @@
+#modloaded thermalfoundation
+
 recipes.addShaped(<thermalfoundation:material:24>, [[<ore:nuggetIron>, <ore:ingotIron>, <ore:nuggetIron>],[<ore:ingotIron>, <ore:gearStone>, <ore:ingotIron>], [<ore:nuggetIron>, <ore:ingotIron>, <ore:nuggetIron>]]);
 recipes.addShaped(<thermalfoundation:material:261>, [[<ore:nuggetNickel>, <ore:ingotNickel>, <ore:nuggetNickel>],[<ore:ingotNickel>, <ore:gearLead>, <ore:ingotNickel>], [<ore:nuggetNickel>, <ore:ingotNickel>, <ore:nuggetNickel>]]);
 recipes.addShaped(<thermalfoundation:material:262>, [[<ore:nuggetPlatinum>, <ore:ingotPlatinum>, <ore:nuggetPlatinum>],[<ore:ingotPlatinum>, <ore:gearDiamond>, <ore:ingotPlatinum>], [<ore:nuggetPlatinum>, <ore:ingotPlatinum>, <ore:nuggetPlatinum>]]);

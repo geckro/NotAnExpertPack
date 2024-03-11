@@ -1,4 +1,5 @@
 #modloaded actuallyadditions
+#modloaded extendedcrafting
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <actuallyadditions:block_smiley_cloud>, [
 	[<minecraft:concrete_powder>, <ore:blockRockwool>, <ore:dyeWhite>, <ore:blockRockwool>, <minecraft:concrete_powder>], 

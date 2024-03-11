@@ -1,4 +1,4 @@
-#modloaded nuclearcraft
+#modloaded tconstruct
 
 import mods.tconstruct.Melting;
 

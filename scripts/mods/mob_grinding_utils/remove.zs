@@ -1,3 +1,5 @@
+#modloaded mob_grinding_utils
+
 recipes.remove(<mob_grinding_utils:saw_upgrade>);
 recipes.remove(<mob_grinding_utils:saw_upgrade:1>);
 recipes.remove(<mob_grinding_utils:saw_upgrade:2>);

@@ -1,3 +1,5 @@
+#modloaded thermalfoundation
+
 recipes.remove(<thermalfoundation:material:24>);
 recipes.remove(<thermalfoundation:material:261>);
 recipes.remove(<thermalfoundation:material:262>);
