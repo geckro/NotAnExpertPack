@@ -1,0 +1,187 @@
+{
+	"populate": {
+		"ender_clathrate": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore_fluid",
+					"properties": {"type": "ender" }
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 16
+			},
+			"cluster-count": 6,
+			"chunk-chance": 5,
+			"min-height": 20,
+			"max-height": 60,
+			"dimension": [1]
+		},
+        "ender_amethyst": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore"
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 8,
+			"chunk-chance": 6,
+			"min-height": 10,
+			"max-height": 40,
+			"dimension": [1]
+		},
+        "draconium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "draconicevolution:draconium_ore",
+						"metadata": 2,
+						"weight": 35
+					},
+                    {
+						"name": "minecraft:end_stone",
+						"metadata": 2,
+						"weight": 65
+					}
+				],
+				"material": "minecraft:end_stone",
+				"cluster-size": 44
+			},
+			"cluster-count": 5,
+			"chunk-chance": 12,
+			"min-height": 10,
+			"max-height": 80,
+			"dimension": [1]
+		},
+        "diamond_vein": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "netherendingores:ore_end_vanilla",
+						"metadata": 1,
+						"weight": 40
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+						"metadata": 8,
+						"weight": 20
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+						"metadata": 9,
+						"weight": 20
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+						"metadata": 7,
+						"weight": 20
+					}
+				],
+				"material": "minecraft:end_stone",
+				"cluster-size": 12
+			},
+			"cluster-count": 4,
+			"chunk-chance": 8,
+			"min-height": 10,
+			"max-height": 54,
+			"dimension": [1]
+		},
+        "emerald_vein": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "netherendingores:ore_end_vanilla",
+						"metadata": 2,
+						"weight": 40
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+						"metadata": 12,
+						"weight": 20
+					},
+                    {
+						"name": "mysticalagriculture:end_inferium_ore",
+						"weight": 20
+					},
+                    {
+						"name": "minecraft:end_stone",
+						"weight": 20
+					}
+				],
+				"material": "minecraft:end_stone",
+				"cluster-size": 10
+			},
+			"cluster-count": 4,
+			"chunk-chance": 8,
+			"min-height": 20,
+			"max-height": 48,
+			"dimension": [1]
+		},
+        "gold_vein": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "netherendingores:ore_end_vanilla",
+						"metadata": 3,
+						"weight": 40
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+						"metadata": 5,
+						"weight": 20
+					},
+                    {
+						"name": "netherendingores:ore_end_vanilla",
+                        "metadata": 4,
+						"weight": 20
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+                        "metadata": 13,
+						"weight": 20
+					}
+				],
+				"material": "minecraft:end_stone",
+				"cluster-size": 14
+			},
+			"cluster-count": 4,
+			"chunk-chance": 7,
+			"min-height": 10,
+			"max-height": 50,
+			"dimension": [1]
+		},
+        "dimensional_shard": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "rftools:dimensional_shard_ore",
+						"metadata": 2,
+						"weight": 25
+					},
+                    {
+						"name": "minecraft:end_stone",
+						"weight": 50
+					},
+                    {
+						"name": "netherendingores:ore_end_modded_1",
+                        "metadata": 3,
+						"weight": 25
+					}
+				],
+				"material": "minecraft:end_stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"chunk-chance": 12,
+			"min-height": 50,
+			"max-height": 80,
+			"dimension": [1]
+		}
+	}
+}

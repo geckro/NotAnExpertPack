@@ -1,8 +1,6 @@
 {
-	"dependencies": "thermalfoundation",
 	"populate": {
 		"copper_aluminum": {
-			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -32,11 +30,10 @@
 			"chunk-chance": 6,
 			"min-height": 45,
 			"max-height": 180,
-			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
-				"value": [-1,1]
+				"restriction": "whitelist",
+				"value": 0
 			}
 		}
 	}
