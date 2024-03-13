@@ -31,19 +31,19 @@
 			"max-height": 40,
 			"dimension": [1]
 		},
-        "draconium": {
+        "draconium_end": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
 					{
 						"name": "draconicevolution:draconium_ore",
 						"metadata": 2,
-						"weight": 35
+						"weight": 10
 					},
                     {
 						"name": "minecraft:end_stone",
 						"metadata": 2,
-						"weight": 65
+						"weight": 90
 					}
 				],
 				"material": "minecraft:end_stone",

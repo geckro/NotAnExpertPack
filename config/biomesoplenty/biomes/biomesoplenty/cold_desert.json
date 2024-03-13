@@ -44,7 +44,7 @@
         "block": "biomesoplenty:hard_ice",
         "properties": {}
       },
-      "generationAttempts": 64,
+      "generationAttempts": 32,
       "amountPerChunk": 1.0,
       "enable": true
     },
@@ -57,18 +57,18 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
-      "enable": true
+      "enable": false
     },
     "boulders": {
       "with": {
         "block": "minecraft:cobblestone",
         "properties": {}
       },
-      "numBalls": 4,
+      "numBalls": 2,
       "amountPerChunk": 0.2,
       "enable": true,
-      "radiusFalloff": 0.5,
-      "innerRadius": 1.0
+      "radiusFalloff": 0.8,
+      "innerRadius": 1.5
     },
     "roots": {
       "with": {
@@ -90,7 +90,7 @@
       },
       "amountPerChunk": 6.0,
       "enable": true,
-      "splotchSize": 24
+      "splotchSize": 36
     }
   },
   "weights": {

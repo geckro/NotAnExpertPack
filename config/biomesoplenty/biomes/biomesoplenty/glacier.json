@@ -19,7 +19,7 @@
   },
   "averageHeight": 88.0,
   "topBlock": {
-    "block": "minecraft:ice",
+    "block": "minecraft:packed_ice",
     "properties": {}
   },
   "fogColor": -1,
@@ -57,7 +57,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 4.0,
-      "enable": true
+      "enable": false
     }
   },
   "weights": {}

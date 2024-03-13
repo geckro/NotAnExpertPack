@@ -40,7 +40,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 1.5,
-      "enable": true
+      "enable": false
     },
     "flowers": {
       "with": {
@@ -94,7 +94,7 @@
           "variant": "oak"
         }
       },
-      "amountPerChunk": 1.0,
+      "amountPerChunk": 2.0,
       "enable": true,
       "leavesState": {
         "block": "minecraft:leaves",
@@ -153,7 +153,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 0.1,
-      "enable": true
+      "enable": false
     },
     "grass": {
       "amountPerChunk": 1.5,

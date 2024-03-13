@@ -13,3 +13,4 @@ recipes.remove(<thermalfoundation:material:257>);
 recipes.remove(<thermalfoundation:material:256>);
 recipes.remove(<thermalfoundation:material:23>);
 recipes.remove(<thermalfoundation:material:22>);
+recipes.removeByRecipeName("thermalfoundation:paper");

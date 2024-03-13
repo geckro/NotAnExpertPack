@@ -41,7 +41,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 1.5,
-      "enable": true
+      "enable": false
     },
     "flowers": {
       "amountPerChunk": 0.4,
@@ -57,7 +57,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
-      "enable": true
+      "enable": false
     },
     "roots": {
       "with": {
@@ -68,7 +68,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 4.0,
-      "enable": true
+      "enable": false
     },
     "trees": {
       "minHeight": 5,
