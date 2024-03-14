@@ -14,3 +14,5 @@ recipes.remove(<appliedenergistics2:part:380>);
 recipes.remove(<appliedenergistics2:sky_compass>);
 recipes.remove(<appliedenergistics2:sky_stone_chest>);
 recipes.remove(<appliedenergistics2:smooth_sky_stone_chest>);
+furnace.remove(<appliedenergistics2:charged_quartz_ore>);
+furnace.remove(<appliedenergistics2:material:5>);

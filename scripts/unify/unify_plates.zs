@@ -1,0 +1,13 @@
+<ore:plateAluminum>.removeItems([<immersiveengineering:metal:31>, <libvulpes:productplate:9>]);
+<ore:plateConstantan>.remove(<immersiveengineering:metal:36>);
+<ore:plateCopper>.removeItems([<immersiveengineering:metal:30>, <libvulpes:productplate:4>]);
+<ore:plateElectrum>.remove(<immersiveengineering:metal:37>);
+<ore:plateGold>.removeItems([<immersiveengineering:metal:40>]);
+<ore:plateIridium>.remove(<libvulpes:productplate:10>);
+<ore:plateIron>.removeItems([<immersiveengineering:metal:39>, <thaumcraft:plate:1>]);
+<ore:plateLead>.remove(<immersiveengineering:metal:32>);
+<ore:plateNickel>.remove(<immersiveengineering:metal:34>);
+<ore:platePlatinum>.remove(<immersiveintelligence:material_plate:2>);
+<ore:plateSilver>.removeItems([<immersiveengineering:metal:33>, <bewitchment:silver_plate>]);
+<ore:plateSteel>.removeItems([<immersiveengineering:metal:38>, <libvulpes:productplate:6>]);
+<ore:plateTin>.remove(<libvulpes:productplate:5>);
