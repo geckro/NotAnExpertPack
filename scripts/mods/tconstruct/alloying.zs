@@ -15,4 +15,3 @@ mods.tconstruct.Alloy.removeRecipe(<liquid:dark_chocolate>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:lead_platinum>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:hard_carbon>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:steel>);
-mods.tconstruct.Alloy.removeRecipe(<liquid:osgloglas>);

@@ -1,6 +1,21 @@
 #modloaded tconstruct
 
+recipes.remove(<tconstruct:smeltery_controller>);
+recipes.remove(<tconstruct:smeltery_io>);
+recipes.remove(<tconstruct:seared_tank>);
+recipes.remove(<tconstruct:seared_tank:2>);
+recipes.remove(<tconstruct:seared_tank:1>);
+recipes.remove(<tconstruct:faucet>);
+recipes.remove(<tconstruct:casting>);
+recipes.remove(<tconstruct:casting:1>);
+recipes.remove(<tconstruct:channel>);
+recipes.remove(<tconstruct:seared_tank>);
+recipes.remove(<tconstruct:seared_furnace_controller>);
+recipes.remove(<tconstruct:tinker_tank_controller>);
 recipes.remove(<tconstruct:tooltables>);
+recipes.remove(<tconstruct:tooltables:3>);
+recipes.remove(<tconstruct:tooltables:4>);
+recipes.remove(<tconstruct:tooltables:5>);
 recipes.remove(<tconstruct:materials:16>);
 recipes.remove(<tconstruct:materials:15>);
 recipes.remove(<tconstruct:pattern>);

@@ -1,0 +1,13 @@
+#modloaded tcomplement
+
+// High oven
+recipes.addShaped(<tcomplement:high_oven_io:2>, [[<tcomplement:materials:1>, <ore:ingotOsmium>, <tcomplement:materials:1>],[<tcomplement:scorched_block:3>, <tconstruct:seared_tank:*>, <tcomplement:scorched_block:3>], [<tcomplement:materials:1>, <ore:ingotOsmium>, <tcomplement:materials:1>]]);
+recipes.addShaped(<tcomplement:high_oven_io:1>, [[<tcomplement:materials:1>, <tcomplement:materials:1>, <tcomplement:materials:1>],[<ore:nuggetNickel>, <tconstruct:smeltery_io>, <ore:nuggetNickel>], [<tcomplement:materials:1>, <tcomplement:materials:1>, <tcomplement:materials:1>]]);
+recipes.addShaped(<tcomplement:scorched_channel>, [[null, <tcomplement:materials:1>, null],[<tcomplement:materials:1>, <tconstruct:channel>, <tcomplement:materials:1>], [null, <tcomplement:materials:1>, null]]);
+recipes.addShaped(<tcomplement:scorched_channel> * 4, [[null, null, null],[<tcomplement:materials:1>, <tcomplement:scorched_faucet>, <tcomplement:materials:1>], [null, null, null]]);
+recipes.addShaped(<tcomplement:scorched_faucet>, [[null, <tcomplement:materials:1>, null],[<tcomplement:materials:1>, <tconstruct:faucet>, <tcomplement:materials:1>], [null, <tcomplement:materials:1>, null]]);
+recipes.addShaped(<tcomplement:scorched_casting:1>, [[<tcomplement:materials:1>, <tconstruct:tough_binding>.withTag({Material: "lumium"}).onlyWithTag({Material: "lumium"}), <tcomplement:materials:1>],[<tcomplement:materials:1>, <tconstruct:casting:1>, <tcomplement:materials:1>], [<tcomplement:materials:1>, <tcomplement:materials:1>, <tcomplement:materials:1>]]);
+recipes.addShaped(<tcomplement:scorched_casting>, [[<tcomplement:materials:1>, <tcomplement:materials:1>, <tcomplement:materials:1>],[<tconstruct:tough_tool_rod>.withTag({Material: "treatedwood"}).onlyWithTag({Material: "treatedwood"}), <tconstruct:casting>, <tconstruct:tough_tool_rod>.withTag({Material: "treatedwood"}).onlyWithTag({Material: "treatedwood"})], [<tconstruct:tough_tool_rod>.withTag({Material: "treatedwood"}).onlyWithTag({Material: "treatedwood"}), null, <tconstruct:tough_tool_rod>.withTag({Material: "treatedwood"}).onlyWithTag({Material: "treatedwood"})]]);
+recipes.addShaped(<tcomplement:high_oven_io>, [[<tcomplement:materials:1>, <ore:nuggetSteel>, <tcomplement:materials:1>],[<tcomplement:materials:1>, <tconstruct:smeltery_io>, <tcomplement:materials:1>], [<tcomplement:materials:1>, <ore:nuggetSteel>, <tcomplement:materials:1>]]);
+recipes.addShaped(<tcomplement:high_oven_controller>, [[<tcomplement:materials:1>, <tcomplement:materials:1>, <tcomplement:materials:1>],[<tcomplement:scorched_block:3>, <tconstruct:smeltery_controller>, <tcomplement:scorched_block:3>], [<tcomplement:materials:1>, <minecraft:lava_bucket>, <tcomplement:materials:1>]]);
+

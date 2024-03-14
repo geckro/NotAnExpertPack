@@ -52,19 +52,50 @@ var clay_seeds = VanillaFactory.createItem("clay_seeds");
 clay_seeds.register();
 var clay_essence = VanillaFactory.createItem("clay_essence");
 clay_essence.register();
+//// END ////
+
+//// Custom ingots/quartz/gems ////
+// Ingots
+var dark_steel_dust = VanillaFactory.createItem("dark_steel_dust");
+dark_steel_dust.register();
+var refined_dark_steel_ingot = VanillaFactory.createItem("refined_dark_steel_ingot");
+refined_dark_steel_ingot.register();
+var refined_dark_steel_nugget = VanillaFactory.createItem("refined_dark_steel_nugget");
+refined_dark_steel_nugget.register();
+
+var end_steel_dust = VanillaFactory.createItem("end_steel_dust");
+end_steel_dust.register();
+var refined_end_steel_ingot = VanillaFactory.createItem("refined_end_steel_ingot");
+refined_end_steel_ingot.register();
+var refined_end_steel_nugget = VanillaFactory.createItem("refined_end_steel_nugget");
+refined_end_steel_nugget.register();
+
+var enriched_cobalt_ingot = VanillaFactory.createItem("enriched_cobalt_ingot");
+enriched_cobalt_ingot.register();
+var enriched_cobalt_nugget = VanillaFactory.createItem("enriched_cobalt_nugget");
+enriched_cobalt_nugget.register();
+
+var enriched_ardite_ingot = VanillaFactory.createItem("enriched_ardite_ingot");
+enriched_ardite_ingot.register();
+var enriched_ardite_nugget = VanillaFactory.createItem("enriched_ardite_nugget");
+enriched_ardite_nugget.register();
+
+var manyullyn_dust = VanillaFactory.createItem("manyullyn_dust");
+manyullyn_dust.register();
+var refined_manyullyn_ingot = VanillaFactory.createItem("refined_manyullyn_ingot");
+refined_manyullyn_ingot.register();
+var refined_manyullyn_nugget = VanillaFactory.createItem("refined_manyullyn_nugget");
+refined_manyullyn_nugget.register();
 
 // Quartz
 var brown_quartz = VanillaFactory.createItem("brown_quartz");
 brown_quartz.register();
-
 var white_quartz = VanillaFactory.createItem("white_quartz");
 white_quartz.register();
-
 var blizz_quartz = VanillaFactory.createItem("blizz_quartz");
 blizz_quartz.register();
-
 var blitz_quartz = VanillaFactory.createItem("blitz_quartz");
 blitz_quartz.register();
-
 var basalz_quartz = VanillaFactory.createItem("basalz_quartz");
 basalz_quartz.register();
+//// END ////
