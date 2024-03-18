@@ -48,7 +48,6 @@
         <alloying energy="10000" exp="1">
             <input name="ingotEnergeticAlloy"/>
             <input name="dustEnderPearl"/>
-            <input name="ingotArlemite"/>
             <output name="ingotVibrantAlloy"/>
         </alloying>
     </recipe>
@@ -57,7 +56,6 @@
         <alloying energy="10000" exp="0.8">
             <input name="ingotEnergeticSilver"/>
             <input name="dustEnderPearl"/>
-            <input name="ingotRupee"/>
             <output name="ingotVividAlloy"/>
         </alloying>
     </recipe>

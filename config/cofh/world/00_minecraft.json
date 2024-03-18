@@ -103,7 +103,7 @@
 						"weight": 25
 					},
 					{
-						"name": "aoa3:limonite_ore",
+						"name": "minecraft:stone",
 						"weight": 25
 					}
 				],
@@ -220,7 +220,7 @@
 						"weight": 6
 					},
 					{
-						"name": "divinerpg:rupee_ore",
+						"name": "minecraft:stone",
 						"weight": 33
 					}
 				],
@@ -253,7 +253,7 @@
 						"weight": 20
 					},
 					{
-						"name": "divinerpg:arlemite_ore",
+						"name": "minecraft:stone",
 						"weight": 20
 					},
 					{
